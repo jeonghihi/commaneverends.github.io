@@ -1,0 +1,8 @@
+---
+layout: post
+title:  2019-10-27-test-page-1.markdown
+date:   2019-10-27 
+categories: jekyll post
+---
+
+this is a test page 1.
