@@ -9,3 +9,7 @@ permalink: /literature/
 Here's our literature archive (hover to see the title text):
 
 [click![click](https://images.gr-assets.com/doodles/1572984560i/9.svg "click")](https://www.goodreads.com/user/show/104617976-commaneverends "commaneverends-goodreads")
+
+if you wanna recommend any book right now please write 
+
+<a href="https://airtable.com/shreaQ9jTsWLpJSXK" target="_blank">submit a form</a>
