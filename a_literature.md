@@ -4,8 +4,8 @@ title: /literature
 permalink: /literature/
 ---
 
-# Never Ending Bookstory
-We set up a <strong><em>Goodreads Account</em></strong> (link below) to collect female* literature 
+<h1>Never Ending Story</h1>
+We set up a <strong><em>Goodreads Account</em></strong> (click Goodreads logo below) to collect female* literature 
 
 Feel free to visit our Account and get inspired by the wide range of female* intellectulism. 
 
