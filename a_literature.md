@@ -10,7 +10,7 @@ We set up a Goodreads Account (click Goodreads logo below) to collect female* li
 Feel free to visit our Goodreads account and get inspired by the wide range of female* intellectulism. 
 &nbsp;
 &nbsp;
-<h2>Genres</h2>
+<h2>Our Goodread Genres</h2>
 
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
 
