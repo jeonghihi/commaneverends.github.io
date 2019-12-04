@@ -16,6 +16,7 @@ Feel free to visit our Account and get inspired by the wide range of female* int
 
 [click![click](https://images.gr-assets.com/doodles/1572984560i/9.svg "click")](https://www.goodreads.com/user/show/104617976-commaneverends "commaneverends-goodreads")
 
-	<h5>Comma Never Ends 5</h5> needs you! 
+Comma Never Ends needs you: We keep collecting books and authors
+Just send us a title and/or the author of your favourite books 
 
 <a href="https://airtable.com/shreaQ9jTsWLpJSXK" target="_blank">submit a form</a>
