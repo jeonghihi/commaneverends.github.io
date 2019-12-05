@@ -16,7 +16,7 @@ Feel free to visit our Goodreads account and get inspired by the wide range of f
 
 <h2>Comma Never Ends needs you!</h2>            
 We keep collecting books and authors so just send us a title and/or the author of your favourite book(s): <a href="https://airtable.com/shreaQ9jTsWLpJSXK" target="_blank">submit a form</a>
+&nbsp;
 
-
-Tell us one of books you like to share with us by filling out the form below. 
+<font color='blue'>Tell us one of books you like to share with us by filling out the form below.</font>
 <iframe src="https://airtable.com/embed/shreaQ9jTsWLpJSXK?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #000;" allowfullscreen=""></iframe>
