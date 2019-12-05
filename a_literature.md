@@ -9,7 +9,6 @@ We set up a Goodreads Account (click Goodreads logo below) to collect female* li
 
 Feel free to visit our Goodreads account and get inspired by the wide range of female* intellectualism. 
 &nbsp;
-&nbsp;
 <h2>Our Goodread Genres</h2>
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
 &nbsp;
@@ -18,5 +17,6 @@ Feel free to visit our Goodreads account and get inspired by the wide range of f
 <h2>Comma Never Ends needs you!</h2>            
 We keep collecting books and authors so just send us a title and/or the author of your favourite book(s): <a href="https://airtable.com/shreaQ9jTsWLpJSXK" target="_blank">submit a form</a>
 
-:sos: Tell us one of books you like to share with us by filling out the form below. 
-<iframe src="https://airtable.com/embed/shreaQ9jTsWLpJSXK?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;" allowfullscreen=""></iframe>
+
+Tell us one of books you like to share with us by filling out the form below. 
+<iframe src="https://airtable.com/embed/shreaQ9jTsWLpJSXK?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #000;" allowfullscreen=""></iframe>
