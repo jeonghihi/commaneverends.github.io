@@ -14,7 +14,7 @@ This platform  is interactive, which means that everyone can submit ideas or art
 <h1>Furthermore this website is providing </h1>
 &nbsp;
 <ul>
-<li>network for local feminist* groups in Berlin</li>
-<li>event planner for feminist* events in Berlin</li>
-<li>feminist* Map of Berlin with like minded places (and clubs with Awareness Teams)</li>
+<li> a network for local feminist* groups in Berlin</li>
+<li>a event planner for feminist* events in Berlin</li>
+<li>a feminist* Map of Berlin with like minded places</li>
 </ul>
