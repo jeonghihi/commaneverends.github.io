@@ -5,9 +5,9 @@ permalink: /literature/
 ---
 
 <h1>Never Ending Story</h1>
-We set up a Goodreads Account (click Goodreads logo below) to collect female* literature 
+We set up a Goodreads Account (click Goodreads logo below) to collect female* literature. 
 
-Feel free to visit our Goodreads account and get inspired by the wide range of female* intellectulism. 
+Feel free to visit our Goodreads account and get inspired by the wide range of female* intellectualism. 
 &nbsp;
 &nbsp;
 <h2>Our Goodread Genres</h2>
