@@ -4,8 +4,6 @@ title: /about
 permalink: /about/
 ---
 &nbsp;
-&nbsp;
-&nbsp;
 <h1>Comma Never Ends</h1>
 Comma Never Ends is a interactive platform that is collecting and publishing female* artists and critical thinkers in music, literature and film, therefore it is creating a virtual space for more diverse traces and evidence of women* in arts. 
 &nbsp;
@@ -21,6 +19,4 @@ This platform  is interactive, which means that everyone can submit ideas or art
 <li>a event planner for feminist* events in Berlin</li>
 <li>a feminist* Map of Berlin with like minded places</li>
 </ul>
-&nbsp;
-&nbsp;
 &nbsp;
