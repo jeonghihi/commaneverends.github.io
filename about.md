@@ -8,7 +8,7 @@ Comma Never Ends is a interactive platform that is collecting and publishing fem
 &nbsp;
 We want to show the multidimensional features of being female*, which is not just being vulnerable, soft, kind, smiling, sensitive, caring, helpful, dedicated, warm - but also strong, powerful, straight, direct, high esteem/self confident, skilled, insightful, ambitious, intellectual, loud, problematic and rude. 
 &nbsp;
-This platform  is interactive, which means that everyone can submit ideas or artists, that are not included in our lists yet.
+This platform  is interactive, which means that everyone can submit ideas or artists, that are not included in our lists yet. It is a list that <strong>never ends</strong> and it keeps growing if we share our knowledge with each other! 
 
 &nbsp;
 <h1>Furthermore this website is providing </h1>
@@ -16,5 +16,5 @@ This platform  is interactive, which means that everyone can submit ideas or art
 <ul>
 <li>network for local feminist* groups in Berlin</li>
 <li>event planner for feminist* events in Berlin</li>
-<li>feminist* Map of Berlin with like minded places (and clubs with awareness teams)</li>
+<li>feminist* Map of Berlin with like minded places (and clubs with Awareness Teams)</li>
 </ul>
