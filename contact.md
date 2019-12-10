@@ -13,10 +13,9 @@ permalink: /contact
   <input type="submit" value="[ submit ]">
 </form>
 
-test form1
-test form2
+new form
 <form class="gform" method="POST" id="car_request_form" role="form" action="
-https://script.google.com/macros/s/AKfycbwFkYrQgR12j9LS2ez1rTQ_Qrh0aW0Te-6_nYErwQ/exec" >
+https://script.google.com/macros/s/AKfycbxPCc4Pk2h8_gzSMDF6f2y2yc_ZERaCbABl5m7U/exec">
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
