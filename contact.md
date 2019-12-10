@@ -13,7 +13,7 @@ permalink: /contact
   <input type="submit" value="[ submit ]">
 </form>
 
-new form style2
+new form style3
 
 <body>  
   
@@ -31,16 +31,13 @@ https://script.google.com/macros/s/AKfycbxPCc4Pk2h8_gzSMDF6f2y2yc_ZERaCbABl5m7U/
 </div>
 
 <div id = "contact-thanks">
-   <div style="display:none" class="thankyou_message">
+	<div style="display:none" class="thankyou_message">
    <!-- You can customize the thankyou message by editing the code below -->
    <h2><em>Thanks</em> for contacting us! We will contact you soon! 
 	<br> (you will be redirected to the previous page in 5 sec..)
    </h2>
-  </div>
+	</div>
 </div>
-<script>
-setTimeout("location.href = 'commaneverends.github.io/contact';",5000);
-</script> 
 
 </body>
 
