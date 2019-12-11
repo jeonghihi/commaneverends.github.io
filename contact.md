@@ -13,7 +13,7 @@ permalink: /contact
   <input type="submit" value="[ submit ]">
 </form>
 
-new form style-popup3
+new form style-popup5
   
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -22,13 +22,20 @@ new form style-popup3
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
   <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-  <input type="submit" value="[ submit ]">  
+  <input type="submit" value="[ submit ]" onclick="displayThanks()">  
 </form>
-<iframe id="after" name="after"></iframe>
+<iframe id="after" name="after" frameborder="0" onmousewheel="" width="100%" height="40" style="background: transparent; border: none;">
+</iframe>
+<span id="span_thanks">Click the button to display the content.</span>
+
 <script>
 function close() {
     document.querySelector('#after').addEventListener('load', function() {
         window.close();
     });
+}
+function displayThanks() {
+   var span_Text = document.getElementById("span_thanks").innerText;
+   alert (span_Text);
 }
 </script>
