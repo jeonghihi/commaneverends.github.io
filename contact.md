@@ -22,7 +22,7 @@ new form style4
 <div id ="contact-form">
 <form class="gform" method="POST" id="car_request_form" role="form" action="
 https://script.google.com/macros/s/AKfycby9UD1hY-kS3WPUskcd0KyCynxdzIQlyUnAYWgEVPKHknZYrOA/exec" 
-  onclick="window.open('', '_blank', ''); window.close();">
+  onclick="window.open('', '_blank', ''); window.top.close();">
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
