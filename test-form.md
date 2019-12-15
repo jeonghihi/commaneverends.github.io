@@ -1,8 +1,7 @@
 <ul>
-{% for item in site.data.musicform %}
+{% for member in site.data.musicform %}
   <li>
-      {{ item.genre }}
-    list
+      {{ member.item }} {{ member.genre }}
   </li>
 {% endfor %}
 </ul>
