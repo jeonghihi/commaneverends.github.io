@@ -1,3 +1,8 @@
+---
+layout: page
+title: /map
+permalink: /map/
+---
 
 map test1
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/untitled-map_2508?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.co/en/map/untitled-map_2508">See full screen</a></p>
