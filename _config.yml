@@ -13,6 +13,7 @@ header_pages:
   - a_literature.md
   - a_film.md
   - a_event.md
+  - a_map.md
   - contact.md
 
 footer: 'follow us on <a href="https://twitter.com/commaneverends">twitter</a>'
