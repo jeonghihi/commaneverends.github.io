@@ -6,12 +6,12 @@ permalink: /map/
 
 # places,neverends :round_pushpin:
 This is a list of places we love.
-touch *:sun_with_face:/:first_quarter_moon_with_face:* below to see details. (in alphabetical order)
+touch *days/nights* below to see details. (in alphabetical order)
 
 <details>
 #### days
 <ul>
-  {% for member in site.data.safespaces-day %}
+  {% for member in site.data.safespacesDay %}
   <li>
 <font color="red"> {{ member.name }} </font> / <font color="yellow"> {{ member.address }} </font> / <font color="gray"> {{ member.website }} </font>
   </li>
@@ -23,7 +23,7 @@ touch *:sun_with_face:/:first_quarter_moon_with_face:* below to see details. (in
 <details>
 #### nights
 <ul>
-{% for member in site.data.safespaces-night %}
+{% for member in site.data.safespacesNight %}
   <li>
 <font color="blue"> {{ member.name }} </font> / <font color="yellow"> {{ member.address }} </font> / <font color="gray"> {{ member.website }} </font>
   </li>
