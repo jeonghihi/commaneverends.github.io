@@ -8,15 +8,28 @@ permalink: /map/
 This is a list of places we love.
 touch *:sun_with_face:/:first_quarter_moon_with_face:* below to see details. (in alphabetical order)
 
-#### days :sun_with_face:
-{% for member in site.data.safespaces.day %}
-{{ member.name }} {{ member.address }} {{ member.website }}
+<details>
+#### days
+<ul>
+  {% for member in site.data.safespaces-day %}
+  <li>
+<font color="red"> {{ member.name }} </font> / <font color="yellow"> {{ member.address }} </font> / <font color="gray"> {{ member.website }} </font>
+  </li>
 {% endfor %}
+</ul>
+</details>
+  
 
-#### nights :first_quarter_moon_with_face:
-{% for member in site.data.safespaces-night-2020-03-30 %}
-{{ member.name }} {{ member.address }} {{ member.website }}
+<details>
+#### nights
+<ul>
+{% for member in site.data.safespaces-night %}
+  <li>
+<font color="blue"> {{ member.name }} </font> / <font color="yellow"> {{ member.address }} </font> / <font color="gray"> {{ member.website }} </font>
+  </li>
 {% endfor %}
+</ul>
+</details>
 
 You can also find the location of each place in the map below. (click coinstacks to see places)
 
