@@ -9,7 +9,7 @@ This is a list of places we love.
 touch *:sun_with_face:/:first_quarter_moon_with_face:* below to see details. (in alphabetical order)
 
 #### days :sun_with_face:
-{% for member in site.data.safespaces-day-2020-03-30 %}
+{% for member in site.data.safespaces.day %}
 {{ member.name }} {{ member.address }} {{ member.website }}
 {% endfor %}
 
