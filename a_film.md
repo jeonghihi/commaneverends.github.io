@@ -11,7 +11,7 @@ We set up a Google Docs Table (click Google docs below) to collect female* direc
 Feel free to visit our Google docs account and get inspired by the wide range of female* intellectualism. 
 
 The following google docs link provides list of female* directors and films
-https://docs.google.com/spreadsheets/d/18wQhtx37VrX4iIqwJGO-wgrp-OCx-tmbJdNw1W7Fl6o/edit?usp=sharing
+[google docs link] (https://docs.google.com/spreadsheets/d/18wQhtx37VrX4iIqwJGO-wgrp-OCx-tmbJdNw1W7Fl6o/edit?usp=sharing)
 
 
 Comma Never Ends needs you!
