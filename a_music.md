@@ -22,22 +22,16 @@ new submission form
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
   <textarea rows="4" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
+  
+  <input type="checkbox" id="checkbox-rock" name="checkbox" value="Rock" /> <label for="checkbox-rock">Rock</label> 
+  <input type="checkbox" id="checkbox-jazz" name="checkbox" value="Jazz" /> <label for="checkbox-jazz">Jazz</label> 
+  <input type="checkbox" id="checkbox-electronic" name="checkbox" value="electronic" /> <label for="checkbox-electronic">Electronic</label> 
+  <input type="checkbox" id="checkbox-other" name="checkboxes" value="other" checked /> <label for="checkboxes--other">Other</label>
+
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
-  
-  <fieldset class="pure-group">
-        <legend>Main genre of the musician</legend>
-        <input id="checkboxes--Rock" type="checkbox" name="checkboxes" value="Rock" checked /> <label for="checkboxes--Rock">Javascript</label>
-        <input id="checkboxes--Electronic" type="checkbox" name="checkboxes" value="Electronic" /> <label for="checkboxes--Electronic">Electronic</label>
-        <input id="checkboxes--RapHiphop" type="checkbox" name="checkboxes" value="RapHiphop" /> <label for="checkboxes--RapHiphop>Rap/Hiphop</label>
-        <input id="checkboxes--Jazz" type="checkbox" name="checkboxes" value="Jazz checked /> <label for="checkboxes--Jazz">Jazz</label>
-        <input id="checkboxes--other" type="checkbox" name="checkboxes" value="other" checked /> <label for="checkboxes--other">Other</label>
-      </fieldset>
-  
-  <input id="checkboxes--javascript" type="checkbox" name="checkboxes" value="rock" checked /> <label for="checkboxes--javascript">Javascript</label>
-  <input id="checkboxes--java" type="checkbox" name="checkboxes" value="electronic" /> <label for="checkboxes--java">Java</label>
+ 
 </form>
 
-      
 <iframe id="after" name="after" frameborder="0" onmousewheel="" width="100%" height="0.1" style="background: transparent; border: none;">
 </iframe>
 
