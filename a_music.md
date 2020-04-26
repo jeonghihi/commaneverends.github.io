@@ -22,9 +22,9 @@ new submission form
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
   <textarea rows="4" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-  <input type="checkbox" id="checkbox-genre" name="checkbox-genre" value="Rock" placeholder="Rock-genre" checked />
+  <input type="checkbox" id="checkbox-genre" name="checkbox-genre" placeholder="Rock-genre" checked />
  
-  <input type="checkbox" id="checkbox-rock" name="checkbox" value="Rock" checked /> <label for="checkbox-rock">Rock</label> 
+  <input type="checkbox" id="checkbox-rock" name="checkbox" value="Rock" checked /> <label for="checkbox-rock">Rock2</label> 
   <input type="checkbox" id="checkbox-jazz" name="checkbox" value="Jazz" /> <label for="checkbox-jazz">Jazz</label> 
   <input type="checkbox" id="checkbox-electronic" name="checkbox" value="electronic" /> <label for="checkbox-electronic">Electronic</label> 
   <input type="checkbox" id="checkbox-other" name="checkboxes" value="other" checked /> <label for="checkboxes--other">Other</label>
