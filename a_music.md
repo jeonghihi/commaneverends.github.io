@@ -19,14 +19,10 @@ new submission form
 <form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbz-6TLQGMxloAJtH1JQ-w1hf4GouwAZisDs2gBN7RUJ1uYw2Rg/exec" target="after" onsubmit="close()">
   
 <form>
-  <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
-  <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
-  <textarea rows="4" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-  <input type="checkbox" id="genre" name="checkbox-genre" placeholder="e.g. rock, electronic, rap, hiphop, classic, jazz, other">
- 
-  <input type="checkbox" id="checkbox-rock" name="checkbox" value="Rock" checked /> <label for="checkbox-rock">Rock2</label> 
-  <input type="checkbox" id="checkbox-jazz" name="checkbox" value="Jazz" /> <label for="checkbox-jazz">Jazz</label> 
-
+  <input type="text" id="name" name="name" placeholder="artist name" autocomplete="off">
+  <input type="text" id="name" name="title" placeholder="your favorite song title from this artist" autocomplete="off">
+  <input type="text" id="genre" name="genre" placeholder="main genre of the artist: e.g. rock, electronic, rap, hiphop, classic, jazz, other" autocomplete="off">
+  <input type="text" id="name" name="subscription" placeholder="if you want to receive further updates, write your email address" autocomplete="off">  
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
  
 </form>
