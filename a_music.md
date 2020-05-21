@@ -6,8 +6,10 @@ permalink: /music/
 
 # music, neverends 
 
+
 We are making an archive of musicians/sound artists who identifies as XX.
-Let us know your fav songs, musician, any kinds of sound artists. 
+
+Let us know your fav songs, musicians, any kinds of sound artists. 
 
 ---
 <font color="red"> Feel free to share your fav music, to make this archive more diverse and interesting. </font> 
@@ -36,9 +38,29 @@ function close() {
     document.querySelector('#after').addEventListener('load', function() {
         window.close();
     });
+  
+---
+
+If you want to listen to our selection of their music, follow us on spotify/soundcloud. 
+You can also click below _music, neverends_ if you want to see the current archive.
+
+<details>
+<summary> _music, neverends_ </summary>
+  
+<h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
+
+<ul>
+{% for member in site.data.musicform %}
+  <li>
+      <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
+  </li>
+{% endfor %}
+</ul>
+  
 }
 function displayThanks() {
    var span_Text = document.getElementById("span_thanks").innerText;
    alert (span_Text);
 }
 </script>
+</details>
