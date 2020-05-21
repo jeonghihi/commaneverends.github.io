@@ -30,7 +30,7 @@ Let us know your fav songs, musicians, any kinds of sound artists.
 </iframe>
 
 <div style="display:none" class="thanks_message">
-<span id="span_thanks"> Thanks for contacting us. We will contact you soon! </span>
+<span id="span_thanks"> Thanks for your support. See you again! </span>
 </div>
 
 <script>
