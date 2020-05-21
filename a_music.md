@@ -21,7 +21,7 @@ Let us know your fav songs, musicians, any kinds of sound artists.
 <form>
   <input type="text" id="name" name="name" placeholder="artist name:" autocomplete="off">
   <input type="text" id="genre" name="genre" placeholder="genre: e.g. rock, electronic, rap, hiphop, classic, jazz, other" autocomplete="off">
-  <input type="text" id="name" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
+  <input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
  
 </form>
