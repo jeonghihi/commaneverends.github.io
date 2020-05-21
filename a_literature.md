@@ -14,18 +14,10 @@ Feel free to visit our Goodreads account and get inspired by the wide range of f
 &nbsp;
 <a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads")</a>
 
+---
+
 <h2>Comma Never Ends needs you!</h2>            
-We keep collecting books and authors so just send us a title and/or the author of your favourite book(s): <a href="https://airtable.com/shreaQ9jTsWLpJSXK" target="_blank">submit a form</a>
-&nbsp;
-
-<font color='blue'>Tell us one of books you like to share with us by filling out the form below.</font>
-<iframe src="https://airtable.com/embed/shreaQ9jTsWLpJSXK?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #000;" allowfullscreen=""></iframe>
-
----
-new submitform
-
----
-<font color="red"> Feel free to share your fav books, to make this archive more diverse and interesting. </font> 
+<font color='yellow'> We want to fill our shelves with more books written by female* writers. Let us know your fav books, authors, any kinds of writers. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -33,8 +25,8 @@ new submitform
   
 <form>
   <input type="text" id="name" name="authorname" placeholder="author name:" autocomplete="off">
-  <input type="text" id="genre" name="bookgenre" placeholder="genre of the book: e.g. fiction, nonfiction, feminism, gender studies, autobiographies, graphic-novel, philosphy, art, poetry, psychology, sci-fi, other" autocomplete="off">
   <input type="text" id="title" name="booktitle" placeholder="title of the book:" autocomplete="off">
+  <input type="text" id="genre" name="bookgenre" placeholder="genre of the book: e.g. fiction, nonfiction, feminism, gender studies, autobiographies, graphic-novel, philosphy, art, poetry, psychology, sci-fi, other" autocomplete="off">
   <input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
  
@@ -44,7 +36,7 @@ new submitform
 </iframe>
 
 <div style="display:none" class="thanks_message">
-<span id="span_thanks"> Thanks for contacting us. We will contact you soon! </span>
+<span id="span_thanks"> Thanks for your support. See you again! </span>
 </div>
 
 <script>
