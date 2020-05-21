@@ -9,10 +9,8 @@ permalink: /music/
 We are making an archive of musicians/sound artists who identifies as XX.
 Let us know your fav songs, musician, any kinds of sound artists. 
 
-<iframe src="https://airtable.com/embed/shr77TgVV45CeCx7Y?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;" allowfullscreen=""></iframe>
-
 ---
-<font color="red"> Feel free to suggest a new record, to make this world more diverse and interesting. </font> 
+<font color="red"> Feel free to share your fav music, to make this archive more diverse and interesting. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
