@@ -4,12 +4,12 @@ title: /map
 permalink: /map/
 ---
 
-# places,neverends :round_pushpin:
-This is a list of places we love.
-touch *days/nights* below to see details. (in alphabetical order)
+# places,neverends
+This is an archive of places we love.
+Click *days/nights* below to see details. (in alphabetical order)
 
 <details>
-<summary> #### days </summary>
+<summary> places for days </summary>
 <ul>
   {% for member in site.data.safespacesDay %}
   <li>
@@ -21,7 +21,7 @@ touch *days/nights* below to see details. (in alphabetical order)
   
 
 <details>
-<summary> #### nights</summary>
+<summary> places for nights</summary>
 <ul>
 {% for member in site.data.safespacesNight %}
   <li>
@@ -31,7 +31,7 @@ touch *days/nights* below to see details. (in alphabetical order)
 </ul>
 </details>
 
-
+<p>
 You can also find the location of each place in the map below. (click coinstacks to see places)
 
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/placesneverends_2508?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true&datalayers=5282%2C5281&fullscreenControl=false&locateControl=true&editinosmControl=false&measureControl=false#17/52.51335/13.45708"></iframe>
