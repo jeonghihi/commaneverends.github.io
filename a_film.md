@@ -25,7 +25,7 @@ We keep collecting films and directors so just send us a title and/or the author
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
-<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbwOBlsaHMmfNiPd9wJiFRg0cRd6oi-kcaRBt4m3cA/exec" target="after" onsubmit="close()">
+<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbw4uqE9OpRTnm_7eIdmPS7VLADGdQI6l6Tn0ueX/exec" target="after" onsubmit="close()">
   
 <form>
   <input type="text" id="name" name="name" placeholder="director name:" autocomplete="off">
