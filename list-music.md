@@ -1,4 +1,4 @@
-<h3><font color="white"> artist </font> / <font color="white"> genre </font></h> <p>(in alphabetical order)
+<h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
 
 <ul>
 {% for member in site.data.musicform %}
