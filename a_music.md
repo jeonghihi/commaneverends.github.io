@@ -38,16 +38,22 @@ function close() {
     document.querySelector('#after').addEventListener('load', function() {
         window.close();
     });
-  
+  }
+function displayThanks() {
+   var span_Text = document.getElementById("span_thanks").innerText;
+   alert (span_Text);
+}
 </script>
 
-
 ---
+
+
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. 
-You can also click below _music, neverends_ if you want to see the current archive.
+
+You can also click below "music, neverends" to see the current archive.
 
 <details>
-<summary> _music, neverends_ </summary>
+<summary> "music, neverends" </summary>
   
 <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
 
@@ -59,10 +65,5 @@ You can also click below _music, neverends_ if you want to see the current archi
 {% endfor %}
 </ul>
   
-}
-function displayThanks() {
-   var span_Text = document.getElementById("span_thanks").innerText;
-   alert (span_Text);
-}
-</script>
+
 </details>
