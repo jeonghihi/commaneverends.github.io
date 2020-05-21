@@ -39,8 +39,10 @@ function close() {
         window.close();
     });
   
----
+</script>
 
+
+---
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. 
 You can also click below _music, neverends_ if you want to see the current archive.
 
