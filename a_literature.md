@@ -20,3 +20,42 @@ We keep collecting books and authors so just send us a title and/or the author o
 
 <font color='blue'>Tell us one of books you like to share with us by filling out the form below.</font>
 <iframe src="https://airtable.com/embed/shreaQ9jTsWLpJSXK?backgroundColor=orange" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #000;" allowfullscreen=""></iframe>
+
+---
+new submitform
+
+---
+<font color="red"> Feel free to share your fav books, to make this archive more diverse and interesting. </font> 
+
+<script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
+
+<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbxZYxmzxIl79dR-rQUCo9aGwTDu6YRiD4gfXFWv5w/exec" target="after" onsubmit="close()">
+  
+<form>
+  <input type="text" id="name" name="authorname" placeholder="author name:" autocomplete="off">
+  <input type="text" id="genre" name="bookgenre" placeholder="genre of the book: e.g. fiction, nonfiction, feminism, gender studies, autobiographies, graphic-novel, philosphy, art, poetry, psychology, sci-fi, other" autocomplete="off">
+  <input type="text" id="title" name="booktitle" placeholder="title of the book:" autocomplete="off">
+  <input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
+  <input type="submit" value="[ submit ]" onclick="displayThanks()">  
+ 
+</form>
+
+<iframe id="after" name="after" frameborder="0" onmousewheel="" width="100%" height="0.1" style="background: transparent; border: none;">
+</iframe>
+
+<div style="display:none" class="thanks_message">
+<span id="span_thanks"> Thanks for contacting us. We will contact you soon! </span>
+</div>
+
+<script>
+function close() {
+    document.querySelector('#after').addEventListener('load', function() {
+        window.close();
+    });
+  }
+function displayThanks() {
+   var span_Text = document.getElementById("span_thanks").innerText;
+   alert (span_Text);
+}
+</script>
+
