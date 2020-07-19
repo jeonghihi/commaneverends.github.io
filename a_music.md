@@ -7,10 +7,12 @@ permalink: /music/
 # music, neverends 
 
 Here you can find female* musicians/sound artists.
-
 <p>
+  
 ---
-<font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> <p>
+  
+<font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
+<p>
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -44,30 +46,28 @@ function displayThanks() {
 </script>
 
 ---
+
 <p>
-  
-If you want to listen to our selection of their music, follow us on spotify/soundcloud. 
+If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
-_link for soundcloud_ _link for spotify_
-
-Click the logo below to see the current archive. _logo_
+Click the logo below to see the current archive.
 
 <details>
+  
 <summary> "music, neverends" </summary>
-  
-<h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
-
-<ul>
-{% for member in site.data.musicform %}
-  <li>
-      <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
-  </li>
-{% endfor %}
-</ul>
-  
+  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
+    <ul>
+    {% for member in site.data.musicform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
 
 </details>
 
+
 ---
 
+<p>
 _other interesting links_
