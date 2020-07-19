@@ -6,7 +6,24 @@ permalink: /music/
 
 # music, neverends 
 Here you can find female* musicians/sound artists.
- 
+&nbsp;
+Click the logo below to see the current archive.
+
+<details>
+  
+<summary> "music, neverends" </summary>
+  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
+    <ul>
+    {% for member in site.data.musicform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
+
+</details>
+
+
 ---
   
 <font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
@@ -40,28 +57,13 @@ function displayThanks() {
 }
 </script>
 
----
 
+---
+&nbsp;
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
-Click the logo below to see the current archive.
-
-<details>
-  
-<summary> "music, neverends" </summary>
-  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
-    <ul>
-    {% for member in site.data.musicform %}
-      <li>
-          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
-      </li>
-    {% endfor %}
-    </ul>
-
-</details>
 
 
 ---
 
-<p>
 _other interesting links_
