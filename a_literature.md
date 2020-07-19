@@ -4,20 +4,19 @@ title: /literature
 permalink: /literature/
 ---
 
-<h1>Never Ending Story</h1>
-We set up a Goodreads Account (click Goodreads logo below) to collect female* literature. 
+<h1> story, neverends </h1>
+Here you can find female writers. Visit our Goodreads account and get inspired by the wide range of female* intellectualism.
 
-Feel free to visit our Goodreads account and get inspired by the wide range of female* intellectualism. 
 &nbsp;
 <h2>Our Goodread Genres</h2>
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
 &nbsp;
-<a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads")</a>
+<a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads"){.callout}</a>
+
 
 ---
-
-<h2>Comma Never Ends needs you!</h2>            
-<font color='yellow'> We want to fill our shelves with more books written by female* writers. Let us know your fav books, authors, any kinds of writers. </font> 
+         
+<font color='yellow'> Send us your fav books, authors, any kinds of writers. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -51,3 +50,6 @@ function displayThanks() {
 }
 </script>
 
+.callout {
+    float: right;
+}
