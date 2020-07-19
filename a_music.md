@@ -6,13 +6,11 @@ permalink: /music/
 
 # music, neverends 
 
+Here you can find female* musicians/sound artists.
 
-We are making an archive of musicians/sound artists who identifies as XX.
-
-Let us know your fav songs, musicians, any kinds of sound artists. 
-
+<p>
 ---
-<font color="red"> Feel free to share your fav music, to make this archive more diverse and interesting. </font> 
+<font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> <p>
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -46,11 +44,13 @@ function displayThanks() {
 </script>
 
 ---
-
-
+<p>
+  
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. 
 
-You can also click below "music, neverends" to see the current archive.
+_link for soundcloud_ _link for spotify_
+
+Click the logo below to see the current archive. _logo_
 
 <details>
 <summary> "music, neverends" </summary>
@@ -67,3 +67,7 @@ You can also click below "music, neverends" to see the current archive.
   
 
 </details>
+
+---
+
+_other interesting links_
