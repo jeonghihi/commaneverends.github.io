@@ -10,7 +10,7 @@ Here you can find female* directors and some of their masterpieces.
 
 <details>
 <summary> "film, neverends" </summary>
-  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) <p>
+  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) </h3>
     <ul>
     {% for member in site.data.filmform %}
       <li>
@@ -21,11 +21,13 @@ Here you can find female* directors and some of their masterpieces.
 </details>
 
 .
+
 Additionally we created a global map to emphasize the diversity of female* film directors.
 _map_
 
 
 ---
+
 
 <font color="red"> Send us your fav films made by female* directors. </font> 
 
@@ -61,6 +63,8 @@ function displayThanks() {
 </script>
 
 .
+
+
 ---  
 
 # other interesting links
