@@ -20,7 +20,6 @@ Here you can find female* directors and some of their masterpieces.
     </ul>
 </details>
 
-.
 
 Additionally we created a global map to emphasize the diversity of female* film directors.
 _map_
@@ -62,9 +61,8 @@ function displayThanks() {
 }
 </script>
 
-.
-
 
 ---  
+
 
 # other interesting links
