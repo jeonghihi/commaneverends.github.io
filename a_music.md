@@ -12,7 +12,7 @@ Click the logo below to see the current archive.
 <details>
   
 <summary> "music, neverends" </summary>
-  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order) <p>
+  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
     <ul>
     {% for member in site.data.musicform %}
       <li>
