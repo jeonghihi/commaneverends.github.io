@@ -5,19 +5,14 @@ permalink: /music/
 ---
 
 # music, neverends 
-
 Here you can find female* musicians/sound artists.
-<p>
-  
+ 
 ---
   
 <font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
-<p>
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
-
 <form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbz-6TLQGMxloAJtH1JQ-w1hf4GouwAZisDs2gBN7RUJ1uYw2Rg/exec" target="after" onsubmit="close()">
-  
 <form>
   <input type="text" id="name" name="name" placeholder="artist name:" autocomplete="off">
   <input type="text" id="genre" name="genre" placeholder="genre: e.g. rock, electronic, rap, hiphop, classic, jazz, other" autocomplete="off">
@@ -47,7 +42,6 @@ function displayThanks() {
 
 ---
 
-<p>
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 Click the logo below to see the current archive.
