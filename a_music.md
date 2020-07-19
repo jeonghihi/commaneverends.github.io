@@ -25,7 +25,7 @@ Click the logo below to see the current archive.
 
 
 ---
-  
+ 
 <font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
@@ -59,11 +59,11 @@ function displayThanks() {
 
 
 ---
-&nbsp;
+
+
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 
 
 ---
-
 _other interesting links_
