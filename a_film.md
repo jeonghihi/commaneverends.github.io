@@ -4,24 +4,28 @@ title: /film
 permalink: /film/
 ---
 
-<h1>Never Ending Story</h1>
+<h1>film, neverends</h1>
 
-We set up a Google Docs Table (click Google docs below) to collect female* directors and some of their masterpieces.
+Here you can find female* directors and some of their masterpieces.
 
-Feel free to visit our Google docs account and get inspired by the wide range of female* intellectualism. 
+<details>
+<summary> "film, neverends" </summary>
+  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) <p>
+    <ul>
+    {% for member in site.data.filmform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.movie }}</font> <font color="green">{{ member.year }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
+</details>
 
-The following google docs link provides list of female* directors and films
-[google docs link] (https://docs.google.com/spreadsheets/d/18wQhtx37VrX4iIqwJGO-wgrp-OCx-tmbJdNw1W7Fl6o/edit?usp=sharing)
-
-
-Comma Never Ends needs you!
-We keep collecting films and directors so just send us a title and/or the author of your favourite film(s):  
-
-<font color='blue'>Do you want to add a film or female* director? Just fill in the form below</font>
-
+Additionally we created a global map to emphasize the diversity of female* film directors.
+_map_
 
 ---
-<font color="red"> Feel free to share your fav movies & directors, to make this archive more diverse and interesting. </font> 
+
+<font color="red"> Send us your fav films made by female* directors. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
@@ -53,5 +57,7 @@ function displayThanks() {
    alert (span_Text);
 }
 </script>
+
 ---  
- 
+
+# other interesting links
