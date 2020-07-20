@@ -21,6 +21,13 @@ Here you can find female* directors and some of their masterpieces.
 </details>
 
 
+---
+
+table-ver2-test
+<iframe style="border-style: none;" src="https://commaneverends.github.io/tablemaker/index.html" height="950" width="600"></iframe>
+
+---
+
 Additionally we created a global map to emphasize the diversity of female* film directors.
 _map_
 
@@ -61,8 +68,7 @@ function displayThanks() {
 }
 </script>
 
-
+\
 ---  
-
-
+\
 # other interesting links
