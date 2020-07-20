@@ -10,10 +10,6 @@ Here you can find female* directors and some of their masterpieces.
 
 <details>
 <summary> "film, neverends" </summary>
-  table-ver2-test2
-  <iframe style="border-style: none;" src="https://commaneverends.github.io/tablemaker/index.html" height="300" width="600" frameBorder="0"></iframe>
-  
-  table-ver1
   <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) </h3>
     <ul>
     {% for member in site.data.filmform %}
