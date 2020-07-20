@@ -18,13 +18,15 @@ Here you can find female* directors and some of their masterpieces.
       </li>
     {% endfor %}
     </ul>
+  
+  table-ver2-test2
+  <iframe style="border-style: none;" src="https://commaneverends.github.io/tablemaker/index.html" height="950" width="300"></iframe>
+
 </details>
 
 
 ---
 
-table-ver2-test
-<iframe style="border-style: none;" src="https://commaneverends.github.io/tablemaker/index.html" height="950" width="600"></iframe>
 
 ---
 
@@ -68,7 +70,9 @@ function displayThanks() {
 }
 </script>
 
-\
+
 ---  
-\
+
+
+
 # other interesting links
