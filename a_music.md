@@ -20,12 +20,15 @@ Click the logo below to see the current archive.
       </li>
     {% endfor %}
     </ul>
-&nbsp;
-  <h3> table-ver2 </h3>
-  <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0" allowtransparency="true"></iframe>
- 
+
 </details>
 
+<details>
+  
+<summary> "music, neverends (ver2)" </summary>
+  <h3> table-ver2 </h3>
+  <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0" allowtransparency="true"></iframe> 
+</details>
 
 ---
 
@@ -63,12 +66,14 @@ function displayThanks() {
 </script>
 
 
+\
 ---
-&nbsp;
+\
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 
 ---
 
-&nbsp;
+
+\
 _other interesting links_
