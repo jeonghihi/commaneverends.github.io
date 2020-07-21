@@ -4,7 +4,7 @@ title: /music
 permalink: /music/
 ---
 
-# music, neverends 
+# music, neverends
 Here you can find female* musicians/sound artists.
 &nbsp;
 Click the logo below to see the current archive.
@@ -12,7 +12,7 @@ Click the logo below to see the current archive.
 <details>
   
 <summary> "music, neverends" </summary>
-  <h3><font color="white"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
+  <h3><font color="#cdcbcb"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
     <ul>
     {% for member in site.data.musicform %}
       <li>
@@ -20,7 +20,10 @@ Click the logo below to see the current archive.
       </li>
     {% endfor %}
     </ul>
-
+&nbsp;
+  <h3> table-ver2 </h>
+  <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0"></iframe>
+ 
 </details>
 
 
