@@ -21,13 +21,15 @@ Click the logo below to see the current archive.
     {% endfor %}
     </ul>
 &nbsp;
-  <h3> table-ver2 </h>
+  <h3> table-ver2 </h3>
   <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0"></iframe>
  
 </details>
 
 
 ---
+
+
  
 <font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
 
@@ -62,11 +64,11 @@ function displayThanks() {
 
 
 ---
-
-
+&nbsp;
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 
-
 ---
+
+&nbsp;
 _other interesting links_
