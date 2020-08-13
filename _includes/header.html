@@ -16,7 +16,7 @@
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 	  <ul><a class="dropdown-item" href="#">Action1</a>
-	  <li><a class="dropdown-item" href="#">Action2</a></li>
+	  <li><a class="dropdown-item" href="#">Action2</a></li><div class="dropdown-divider" />		  
 	  <li><a class="dropdown-item" href="#">Action3</a></li>
 		  </ul>
 	</div>
@@ -26,26 +26,15 @@
 
 	test2
 	</br>
-<script>
-    import Dropdown from "sv-bootstrap-dropdown";
-    let dropdownSplitTrigger;
-</script>
 
- <Dropdown triggerElement={dropdownSplitTrigger} classes="btn-group">
-    <button type="button" class="btn btn-danger">Danger</button>
-    <button
-      type="button"
-      class="btn btn-danger dropdown-toggle dropdown-toggle-split"
-      aria-haspopup="true"
-      aria-expanded="false"
-      bind:this={dropdownSplitTrigger}>
-      <span class="sr-only">Toggle Dropdown</span>
+    <button type="button" class="btn btn-danger">Dropdown1</button>
+    <button type="button" class="btn btn-danger dropdown-toggle dropdown-toggle-split" aria-haspopup="true" aria-expanded="false">
+      <span class="sr-only">Toggle Dropdown2</span>
     </button>
     <div slot="DropdownMenu">
       <a class="dropdown-item" href="javascript:void(0)">Action</a>
-      <a class="dropdown-item" href="javascript:void(0)">Another action</a>
-      <div class="dropdown-divider" />
-      <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
+      <div class="dropdown-divider" />      <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+      <div class="dropdown-divider" />      <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
     </div>
   </Dropdown>
 
