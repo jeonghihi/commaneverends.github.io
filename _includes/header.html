@@ -11,7 +11,7 @@
 	</ul>
 </div>
 	
-<div class="menu" style="text-align: right">
+<div class="menu" style="text-align: left">
 	<div style="display:inline-block">Paint<ul>
 		<a class="dropdown-item" href="#">Music</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">IPA</a><div class="dropdown-divider" />
@@ -28,12 +28,17 @@
 	</div>
 </div>
 	
-	li:hover {cursor: pointer;}
+
 	
 <style>
 a {  text-decoration: none;}
 a:hover {cursor: pointer;}
 nav {    font-family: monospace;	}
+	
+ul a {visibility: hidden; display: none;}
+ul a:focus {   visibility: visible;   opacity: 1;   display: block;}
+ul a {    clear: both;  width: 100%;}
+	
 ul {  background: transparent;    margin: 0;}
 li {    color: #fff;	background: transparent;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
 }
