@@ -9,7 +9,6 @@
         {%- endif -%}
       {%- endfor -%}
     </ul>
-
   </div>
 	
 	<div class="menu" style="text-align: right">
@@ -87,7 +86,7 @@ ul li ul {
 ul li:hover > ul,
 ul li ul:hover {
   visibility: visible;
-  opacity: 1;
+  opacity: 20;
   display: block;
 }
 
@@ -118,7 +117,7 @@ test44</br>
   <li class='menu-dropdown'>
 	  <a class='dropdown-toggle' data-toggle='dropdown' href='#'>ComeHome<b class='caret'></b></a>
 	<li> Main
-          <ul class='dropdown-menu1'> 
+          <ul class="dropdown" aria-label="submenu"> 
             <li><a href='#'>Music</a></li>
             <li><a href='#'>I-catcher</a></li>
             <li><a href='#'>Literature</a></li>
@@ -126,7 +125,7 @@ test44</br>
           </ul>
 	</li>
 	<li> Meet
-          <ul class='dropdown-menu2'>
+          <ul class="dropdown" aria-label="submenu">
             <li><a href='#'>Online</a></li>
             <li><a href='#'>Offline</a></li>
             <li><a href='#'>Talk</a></li>
