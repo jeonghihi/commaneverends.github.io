@@ -33,6 +33,32 @@
 		
 	</div>
 	
+	<div class="menu" style="text-align: right">
+		<nav role="navigation">
+			<li class='menu-dropdown'>
+		<div style="display:inline-block">
+			<li>Menu
+			<ul>
+		  <a class="dropdown-item" href="#">Action</a><div class="dropdown-divider" />
+		  <a class="dropdown-item" href="#">Action2</a><div class="dropdown-divider" />		  
+		  <a class="dropdown-item" href="#">Action3</a>
+			</ul>
+			</li>
+	 	</div>
+		<div style="display:inline-block">
+			<li>Life
+				<ul class="dropdown" aria-label="submenu">
+			  <li><a class="dropdown-item" href="#">Music</a></li>			  <div class="dropdown-divider" />
+			  <li><a class="dropdown-item" href="#">IPA</a>	</li>		  <div class="dropdown-divider" />	
+			  <li><a class="dropdown-item" href="#">Literature</a>	</li>		  <div class="dropdown-divider" />		  
+			  <li><a class="dropdown-item" href="#">Film</a>
+			  </li>
+				</ul>
+			</li>
+		</div>
+		
+	</div>
+	
 	test...end..
 	<br>
 
@@ -69,16 +95,15 @@ a {  text-decoration: none;
 
 nav {    font-family: monospace;
 	}
-ul {  background: black;    margin: 0;
+ul {  background: blue;    margin: 0;
 }
-li {    color: #fff;	background: black;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
+li {    color: #fff;	background: blue;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
 }
 li a {  color: #fff;
 	}
 li:hover {    background: red;    cursor: pointer;
 }
-ul li ul {
-    background: black;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
+ul li ul {background: blue;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
 	position: absolute;  transition: all 0.5s ease;  margin-top: 1rem;    left: 0;  display: none;}
 ul li:hover > ul,
 ul li ul:hover {  visibility: visible;  opacity: 20;  display: block;}
