@@ -24,6 +24,33 @@
 	</div>
   </div>
 
+	test2
+	</br>
+<script>
+    import Dropdown from "sv-bootstrap-dropdown";
+    let dropdownSplitTrigger;
+</script>
+
+ <Dropdown triggerElement={dropdownSplitTrigger} classes="btn-group">
+    <button type="button" class="btn btn-danger">Danger</button>
+    <button
+      type="button"
+      class="btn btn-danger dropdown-toggle dropdown-toggle-split"
+      aria-haspopup="true"
+      aria-expanded="false"
+      bind:this={dropdownSplitTrigger}>
+      <span class="sr-only">Toggle Dropdown</span>
+    </button>
+    <div slot="DropdownMenu">
+      <a class="dropdown-item" href="javascript:void(0)">Action</a>
+      <a class="dropdown-item" href="javascript:void(0)">Another action</a>
+      <div class="dropdown-divider" />
+      <a class="dropdown-item" href="javascript:void(0)">Something else here</a>
+    </div>
+  </Dropdown>
+
+test2-end
+</br>
 
 <div class="menu2">
   <li class='menu-dropdown'>
