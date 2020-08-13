@@ -46,7 +46,7 @@ nav {
 }
 
 ul {
-  background: darkorange;
+  background: black;
     list-style: none;
     margin: 0;
     padding-left: 0;
@@ -54,7 +54,7 @@ ul {
 
 li {
     color: #fff;
-  background: darkorange;
+  background: black;
     display: block;
     float: left;
     padding: 1rem;
@@ -73,7 +73,7 @@ li:hover {
 }
 
 ul li ul {
-    background: orange;
+    background: black;
     visibility: hidden;
   opacity: 0;
   min-width: 5rem;
@@ -97,19 +97,22 @@ ul li ul li {
 }
 	</style>
 
+
 <nav role="navigation">
   <ul>
     <li><a href="#">One</a></li>
-    <li><a href="#">Two</a>
-      <ul class="dropdown">
+    <li><a href="#" aria-haspopup="true">Two</a>
+      <ul class="dropdown" aria-label="submenu">
         <li><a href="#">Sub-1</a></li>
         <li><a href="#">Sub-2</a></li>
         <li><a href="#">Sub-3</a></li>
       </ul>
     </li>
-    <li><a href="#">Three</a></li>
+    <li><a href="#">Threeeee</a></li>
   </ul>
 </nav>
+
+test44</br>
 
 <div class="menu2">
   <li class='menu-dropdown'>
