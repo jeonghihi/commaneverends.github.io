@@ -36,58 +36,31 @@
 	<div class="menu" style="text-align: right">
 		<nav role="navigation">
 			<li class='menu-dropdown'>
-		<div style="display:inline-block">
-			<li>Menu
-			<ul>
-		  <a class="dropdown-item" href="#">Action</a><div class="dropdown-divider" />
-		  <a class="dropdown-item" href="#">Action2</a><div class="dropdown-divider" />		  
-		  <a class="dropdown-item" href="#">Action3</a>
-			</ul>
+				<div style="display:inline-block">
+					<li>Menu
+						<ul>
+							<a class="dropdown-item" href="#">Action</a><div class="dropdown-divider" />
+							<a class="dropdown-item" href="#">Action2</a><div class="dropdown-divider" />	
+							<a class="dropdown-item" href="#">Action3</a>
+						</ul>
+					</li>
+					<li>Life
+						<ul class="dropdown" aria-label="submenu">
+							<li><a class="dropdown-item" href="#">Music</a></li><div class="dropdown-divider" />
+							<li><a class="dropdown-item" href="#">IPA</a></li><div class="dropdown-divider" />
+							<li><a class="dropdown-item" href="#">Literature</a></li><div class="dropdown-divider" />	
+							<li><a class="dropdown-item" href="#">Film</a></li>
+						</ul>
+					</li>
+				</div>
 			</li>
-	 	</div>
-		<div style="display:inline-block">
-			<li>Life
-				<ul class="dropdown" aria-label="submenu">
-			  <li><a class="dropdown-item" href="#">Music</a></li>			  <div class="dropdown-divider" />
-			  <li><a class="dropdown-item" href="#">IPA</a>	</li>		  <div class="dropdown-divider" />	
-			  <li><a class="dropdown-item" href="#">Literature</a>	</li>		  <div class="dropdown-divider" />		  
-			  <li><a class="dropdown-item" href="#">Film</a>
-			  </li>
-				</ul>
-			</li>
-		</div>
-		
+		</nav>
 	</div>
 	
-	test...end..
+	
 	<br>
-
-<div class="menu2">
-	<nav role="navigation">
-  <li class='menu-dropdown'>
-	<li> Main
-          <ul class="dropdown" aria-label="submenu"> 
-            <li><a href='#'>Music</a></li><div class="dropdown-divider" />
-            <li><a href='#'>I-catcher</a></li><div class="dropdown-divider" />
-            <li><a href='#'>Literature</a></li><div class="dropdown-divider" />
-            <li><a href='#'>Film</a></li>
-          </ul>
-	</li>
-	<li> Meet
-          <ul class="dropdown" aria-label="submenu">
-            <li><a href='#'>Online</a></li><div class="dropdown-divider" />
-            <li><a href='#'>Offline</a></li><div class="dropdown-divider" />
-            <li><a href='#'>Talk</a></li><div class="dropdown-divider" />
-          </ul>
-	</li>
-		</li>
-	</nav>
-</div>
-
-<br>
-test3
-<br>
-this is the end
+	test...end..???
+	<br>
 
 <style>
 a {  text-decoration: none;
@@ -95,19 +68,18 @@ a {  text-decoration: none;
 
 nav {    font-family: monospace;
 	}
-ul {  background: blue;    margin: 0;
+ul {  background: transparent;    margin: 0;
 }
-li {    color: #fff;	background: blue;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
+li {    color: #fff;	background: transparent;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
 }
 li a {  color: #fff;
 	}
-li:hover {    background: red;    cursor: pointer;
+li:hover {cursor: pointer;
 }
 ul li ul {background: blue;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
 	position: absolute;  transition: all 0.5s ease;  margin-top: 1rem;    left: 0;  display: none;}
 ul li:hover > ul,
 ul li ul:hover {  visibility: visible;  opacity: 20;  display: block;}
-ul li ul li {    clear: both;  width: 100%;
-}
+ul li ul li {    clear: both;  width: 100%;}
 </style>
 </header>
