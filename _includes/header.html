@@ -7,16 +7,16 @@
 	{%- if my_page.title -%}
 	<li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
 	{%- endif -%}
-	{%- endfor -%}
+	{%- endfor -%
 	</ul>
 </div>
 	
-<div class="menu" style="text-align: left">
+<div class="menu" style="text-align: right">
 	<div style="display:inline-block">Paint<ul>
-		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><div class="dropdown-divider" />
+		<a class="dropdown-item" href="/Music">Music</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">IPA</a><div class="dropdown-divider" />
-		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><div class="dropdown-divider" /> 
-		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}Film</a>
+		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">Literature</a><div class="dropdown-divider" /> 
+		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">Film</a>
 		</ul>
 	</div>
 	<div style="display:inline-block">Life<ul>
@@ -29,16 +29,13 @@
 </div>
 	
 
-	
 <style>
 a {  text-decoration: none;}
 a:hover {cursor: pointer;}
 nav {    font-family: monospace;	}
-
 ul {  background: transparent;    margin: 0;}
 li {    color: #fff;	background: transparent;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;}
 li a {  color: #fff;	}
-
 ul li ul {background: blue;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
 	position: absolute;  transition: all 0.5s ease;  margin-top: 1rem;    left: 0;  display: none;}
 ul li:hover > ul,
