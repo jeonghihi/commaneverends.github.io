@@ -13,21 +13,17 @@
 	
 <div class="menu" style="text-align: left">
 	<div style="display:inline-block">Paint<ul>
-		<li>
-		<a class="dropdown-item" href="#">Music</a><div class="dropdown-divider" />
+		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">IPA</a><div class="dropdown-divider" />
-		<a class="dropdown-item" href="#">Literature</a><div class="dropdown-divider" /> 
-		<a class="dropdown-item" href="#">Film</a>
-		</li>
+		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><div class="dropdown-divider" /> 
+		<a class="dropdown-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}Film</a>
 		</ul>
 	</div>
 	<div style="display:inline-block">Life<ul>
-		<li>
 		<a class="dropdown-item" href="#">Online</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">Offline</a><div class="dropdown-divider" />	
 		<a class="dropdown-item" href="#">Nowhere</a><div class="dropdown-divider" />		  
 		<a class="dropdown-item" href="#">Links</a>
-		</li>
 		</ul>
 	</div>
 </div>
@@ -39,11 +35,8 @@ a {  text-decoration: none;}
 a:hover {cursor: pointer;}
 nav {    font-family: monospace;	}
 
-ul li a:hover  {   visibility: visible;   opacity: 1;   display: block;}
-	
 ul {  background: transparent;    margin: 0;}
-li {    color: #fff;	background: transparent;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;
-}
+li {    color: #fff;	background: transparent;    display: block;    float: left;    text-decoration: none;  transition-duration: 0.1s;}
 li a {  color: #fff;	}
 
 ul li ul {background: blue;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
