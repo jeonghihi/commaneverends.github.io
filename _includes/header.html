@@ -1,6 +1,6 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
-<div class="menu1">
+<div class="menu">
 	<ul>
 	{%- for path in page_paths -%}
 	{%- assign my_page = site.pages | where: "path", path | first -%}
@@ -14,8 +14,9 @@
 <div class="menu">
 		
 	<div style="display:inline-block", class="menu-left">
-		<ul><li><ul>
-			Love.		
+		<ul><li>
+			Love
+			<ul>.		
 		<a class="dropdown-item" href="/music/">Music</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">i!i</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="/literature/">Literature</a><div class="dropdown-divider" />
