@@ -1,6 +1,6 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
-<div class="menu0">
+<div class="menu1">
 	<ul>
 	{%- for path in page_paths -%}
 	{%- assign my_page = site.pages | where: "path", path | first -%}
@@ -12,9 +12,9 @@
 </div>
 	
 <div class="menu">
-	<div class="menu-left">Love?<ul>
+	<div style="display:inline-block", class="menu-left">Love<ul>
 		<a class="dropdown-item" href="/music/">Music</a><div class="dropdown-divider" />
-		<a class="dropdown-item" href="#">IPA</a><div class="dropdown-divider" />
+		<a class="dropdown-item" href="#">i!i</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="/literature/">Literature</a><div class="dropdown-divider" /> 
 		<a class="dropdown-item" href="/film/">Film</a>
 		</ul>
@@ -42,12 +42,9 @@ ul li:hover > ul,
 ul li ul:hover {  visibility: visible;  opacity: 20;  display: block;}
 ul li ul li {    clear: both;  width: 100%;}
 	
-div.menu {width: 400px;}
-div.menu-left {
-	text-align: left;  left: 0;  top: 0;}
-
-div.menu-right {
-	text-align: right;  right: 0;  top: 0;}
+div.menu {width: 400px; text-align: left;}
+div.menu-left {text-align: left;  left: 0;  top: 0;}
+div.menu-right {text-align: right;  right: 0;  top: 0;}
 	
 </style>
 
