@@ -12,14 +12,20 @@
 </div>
 	
 <div class="menu">
-	<div style="display:inline-block", class="menu-left">Love<ul>
+	<ul>		
+	<div style="display:inline-block", class="menu-left">Love
+		<li>
+		<ul>
 		<a class="dropdown-item" href="/music/">Music</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="#">i!i</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="/literature/">Literature</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="/film/">Film</a>
 		</ul>
+		</li>
 	</div>
-	<div style="display:inline-block", class="menu-right">Life<ul>
+	</ul>
+	<div style="display:inline-block", class="menu-right">Life
+		<ul>
 		<a class="dropdown-item" href="/links/">Online</a><div class="dropdown-divider" />
 		<a class="dropdown-item" href="/map/">Offline</a><div class="dropdown-divider" />	
 		<a class="dropdown-item" href="#">Nowhere</a><div class="dropdown-divider" />		  
@@ -36,11 +42,12 @@ a:hover {cursor: pointer;}
 ul {  background: transparent;    margin: 0;}
 li {    color: #fff;	background: transparent;    text-decoration: none;  transition-duration: 0.1s;}
 li a {  color: #fff;	}
-ul li ul {background: blue;    visibility: hidden;  opacity: 0;  min-width: 5rem;   
+ul li ul {visibility: hidden;  opacity: 0;  min-width: 5rem;   
 	position: absolute;  transition: all 0.5s ease;  margin-top: 1rem;    left: 0;  display: none;}
-div.menu {width: 400px; text-align: right;}
-div.menu-left {text-align: left;  left: 0;  top: 0;}
-div.menu-right {text-align: right;  right: 0;  top: 0;}
+
+menu {width: 400px; text-align: right;}
+menu-left {text-align: left;  left: 0;  top: 0;}
+menu-right {text-align: right;  right: 0;  top: 0;}
 	
 </style>
 
