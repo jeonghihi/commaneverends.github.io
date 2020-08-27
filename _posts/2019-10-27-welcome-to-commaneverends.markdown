@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  ",neverends"
 date:   2019-10-27 17:42:33 +0100
 categories: jekyll update
 ---
-# Welcome to comma never ends!
+# Welcome to commaneverends!
 We are collecting female* artists in music, literature and film to build a space for women* in arts.
 Comma Never Ends is an interactive archive, you can add your favourite artists.
 Our archive consists of three main categories: music, literature and film.
