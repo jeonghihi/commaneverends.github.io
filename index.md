@@ -19,7 +19,7 @@ _Marguerite Duras_
 
 </div>
 
-<div style="float: right; width: 49%; height: 460px; margin:2px;">
+<div style="float: right; width: 248px; height: 460px; margin:2px;">
   
 # Welcome to comma never ends!
 <br/>
