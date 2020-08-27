@@ -5,9 +5,9 @@ permalink: /
 ---
 
 <html>
-<div class="main">
+<div style="float: none;" class="main">
 
-<div style="float: left; width: 50%; height: 100%; margin: 2px;">
+<div style="float: left; width: 50%; height: 100%; margin: 1px;">
   
 # Person of the month (September 2020)
 <br/>
@@ -21,7 +21,7 @@ _Marguerite Duras_
 
 </div>
 
-<div style="float: right; width: 50%; height: 440px; margin: 2px;">
+<div style="float: right; width: 50%; height: 100%; margin: 1px;">
   
 # Welcome to comma never ends!
 <br/>
