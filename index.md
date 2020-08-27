@@ -4,7 +4,7 @@ layout: home
 permalink: /
 ---
 
-<div style="display:inline-block; text-align: right;">
+<div style="display:inline; text-align: right; width: 200px">
 # Welcome to comma never ends!
 
 We are collecting female* artists in music, literature and film to build a space for women* in arts. 
@@ -15,7 +15,9 @@ There are so many interesting female* artists, together we can keep this archive
 <br/>
 </div>
 
-<div style="display:inline-block; text-align: left;">
+test-ing
+
+<div style="display:inline; text-align: left; width: 200px">
 
 # Person of the month (September 2020)
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras" target="iframe_person">
