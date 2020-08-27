@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <html>
-<div style="float: right; width: 50%;">
+<div style="float: left; width: 50%; height: 100%;">
 
 # Person of the month (September 2020)
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras" target="iframe_person">
@@ -17,7 +17,7 @@ _Marguerite Duras_
 
 </div>
 
-<div style="float: left; width: 50%;">
+<div style="float: right; width: 50%; height: 100%;">
 
 # Welcome to comma never ends!
 We are collecting female* artists in music, literature and film to build a space for women* in arts. 
@@ -28,7 +28,8 @@ There are so many interesting female* artists, together we can keep this archive
 <br/>
 </div>
 
-test-ing4
+<br/>
+test-ing55
 <br/>
 
 </html>
