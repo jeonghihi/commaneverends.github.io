@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
+<html>
 <div style="display:inline; width: 200px;">
 # Welcome to comma never ends!
 
@@ -28,3 +29,4 @@ _Marguerite Duras_
 </iframe>
 
 </div>
+</html>
