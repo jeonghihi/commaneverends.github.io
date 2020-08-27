@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <html>
-<div style="float: left; width: 48%; height: 460px; margin: 3px; overflow: hidden;">
+<div style="float: left; width: 280px; height: 460px; margin: 3px; overflow: hidden;">
   
 # Person of the month (September 2020)
 <br/>
