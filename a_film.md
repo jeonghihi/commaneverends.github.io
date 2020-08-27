@@ -41,7 +41,8 @@ _map_
 <form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbw4uqE9OpRTnm_7eIdmPS7VLADGdQI6l6Tn0ueX/exec" target="after" onsubmit="close()">
   
 <form>
-  <input type="text" id="name" name="name" placeholder="director name:" autocomplete="off">
+  <input type="text" id="name" name="director" placeholder="director name:" autocomplete="off">
+  <input type="text" id="film" name="filmtitle" placeholder="film title_year:" autocomplete="off">
   <input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
  
