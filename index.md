@@ -5,8 +5,6 @@ permalink: /
 ---
 
 <html>
-<div style="float: none;" class="main">
-
 <div style="float: left; width: 50%; height: 100%; margin: 1px;">
   
 # Person of the month (September 2020)
@@ -31,11 +29,9 @@ Our archive consists of three main categories: music, literature and film. <br/>
 There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! <br/>
 </div>
 
-</div>
-
 
 <br/>
-test-ing77
+test-ing8
 <br/>
 
 </html>
