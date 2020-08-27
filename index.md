@@ -5,11 +5,12 @@ permalink: /
 ---
 
 <html>
-<div style="border: 1px solid blue;" class="main">
+<div class="main">
 
-<div style="float: left; width: 50%; height: 100%;">
+<div style="float: left; width: 50%; height: 100%; margin: 2px;">
   
 # Person of the month (September 2020)
+<br/>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras" target="iframe_person">
 _Marguerite Duras_
 </a>
@@ -20,22 +21,21 @@ _Marguerite Duras_
 
 </div>
 
-<div style="float: right; width: 50%; height: 440px;">
+<div style="float: right; width: 50%; height: 440px; margin: 2px;">
   
 # Welcome to comma never ends!
-We are collecting female* artists in music, literature and film to build a space for women* in arts. 
-Comma Never Ends is an interactive archive, you can add your favourite artists. 
-Our archive consists of three main categories: music, literature and film. 
-There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! 
-
 <br/>
+We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
+Comma Never Ends is an interactive archive, you can add your favourite artists. <br/>
+Our archive consists of three main categories: music, literature and film. <br/>
+There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! <br/>
 </div>
 
 </div>
 
 
 <br/>
-test-ing666
+test-ing77
 <br/>
 
 </html>
