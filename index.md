@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <html>
-<div style="float: left; width:296px; height: 460px; margin:2px; overflow: hidden;">
+<div style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden;">
   
 # Person of the month (September 2020)
 <br/>
@@ -14,12 +14,12 @@ _Marguerite Duras_
 </a>
 <br/>
 (click on the name for more info!)
-<iframe name="iframe_person" left="0px;" right="0px;" width="100%" height="440px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
+<iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
 </iframe>
 
 </div>
 
-<div style="float: right; width: 296px; height: 460px; margin:2px;">
+<div style="float: right; width: 296px; height: 460px; margin:1px;">
   
 # Welcome to comma never ends!
 <br/>
