@@ -4,7 +4,7 @@ title: /music
 permalink: /music/
 ---
 
-_<h2> music, neverends </h2>_
+<h2> _music, neverends _ </h2>
 Here you can find female* musicians/sound artists.
 &nbsp;
 
