@@ -87,9 +87,10 @@ table.dataTable thead .sorting_desc:after {
 	top: 8px;
 	right: 8px;
 	display: block;
-	font-family: 'Glyphicons Halflings';
+	font-family: 'Exo-Black'; 
 	opacity: 0.5;
 }
+
 table.dataTable thead .sorting:after {
 	opacity: 0.2;
 	content: "\e150"; /* sort */
