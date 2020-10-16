@@ -20,11 +20,9 @@ Here you can find female* directors and some of their masterpieces.
     </ul>
 </details>
 
+"film, neverends (ver2)" 
+    <iframe style="border-style: none;" src="https://commaneverends.github.io/table_film/index.html" height="400" width="600" frameBorder="0"></iframe>
 
-<details>
-<summary> "film, neverends (ver2)" </summary>
-    <iframe style="border-style: none;" src="https://commaneverends.github.io/table_film/index.html" height="300" width="600" frameBorder="0"></iframe>
-</details>
 ---
 
 Additionally we created a global map to emphasize the diversity of female* film directors.
