@@ -9,26 +9,15 @@ Here you can find female* musicians/sound artists.
 &nbsp;
 Click the logo below to see the current archive.
 
-<details>
-  
-<summary> "music, neverends" </summary>
-  <h3><font color="#cdcbcb"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
-    <ul>
-    {% for member in site.data.musicform %}
-      <li>
-          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
-      </li>
-    {% endfor %}
-    </ul>
 
-</details>
 
-<details>
+
   
-<summary> "music, neverends (ver2)" </summary>
+_"music, neverends"_
   <h3> table-ver2 </h3>
-  <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0" allowtransparency="true"></iframe> 
-</details>
+
+<iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="300" width="600" frameBorder="0" allowtransparency="true"></iframe> 
+
 
 ---
 
@@ -66,14 +55,32 @@ function displayThanks() {
 </script>
 
 
-\
+
 ---
-\
+
+
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 
 ---
 
 
-\
 _other interesting links_
+
+
+---
+
+
+<details>
+  
+<summary> "music, neverends (old)" </summary>
+  <h3><font color="#cdcbcb"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
+    <ul>
+    {% for member in site.data.musicform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
+
+</details>
