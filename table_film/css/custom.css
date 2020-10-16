@@ -63,13 +63,13 @@ body {
 h1 {
   font: 32px/1em 'GibsonBold', serif;
   text-transform: uppercase;
-  color: #827E7E;
+  color: #0054b2;
 }
 
 h2 {
   font: 22px/1em 'GibsonBold', serif;
   text-transform: uppercase;
-  color: #827E7E;
+  color: #0054b2;
 }
 
 #logo {
@@ -88,13 +88,13 @@ h2 {
 }
 .info h4 {
   margin: 0 0 5px;
-  color: #777;
+  color: #7fb5ff;
 }
 
 .legend {
   text-align: left;
   line-height: 18px;
-  color: #555;
+  color: #7fb5ff;
 }
 .legend i {
   width: 18px;
