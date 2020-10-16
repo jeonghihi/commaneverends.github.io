@@ -8,20 +8,11 @@ permalink: /film/
 
 Here you can find female* directors and some of their masterpieces.
 
-<details>
-<summary> "film, neverends" </summary>
-  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) </h3>
-    <ul>
-    {% for member in site.data.filmform %}
-      <li>
-          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.movie }}</font> <font color="green">{{ member.year }}</font> 
-      </li>
-    {% endfor %}
-    </ul>
-</details>
+_film, neverends_ 
 
-"film, neverends (ver2)" 
-    <iframe style="border-style: none;" src="https://commaneverends.github.io/table_film/index.html" height="400" width="600" frameBorder="0"></iframe>
+
+<iframe style="border-style: none;" src="https://commaneverends.github.io/table_film/index.html" height="400" width="600" frameBorder="0"></iframe>
+
 
 ---
 
@@ -73,3 +64,18 @@ function displayThanks() {
 
 
 # other interesting links
+
+
+<details>
+<summary> "film, neverends (old)" </summary>
+  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) </h3>
+    <ul>
+    {% for member in site.data.filmform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.movie }}</font> <font color="green">{{ member.year }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
+</details>
+
+
