@@ -1,4 +1,6 @@
 # menu headers (original version, bar)
+
+{%- assign page_paths = site.header_pages | default: default_paths -%}
 <div class="menu">
 	<ul>
 	{%- for path in page_paths -%}
