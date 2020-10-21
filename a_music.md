@@ -3,9 +3,11 @@ layout: page
 title: /music
 permalink: /music/
 ---
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 
-<h2> _music, neverends _ </h2>
-Here you can find female* musicians/sound artists.
+
+_music, neverends_  
+Here you can find female* musicians/sound artists and some of their works.
 &nbsp;
 
 <iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="400" width="600" frameBorder="0" allowtransparency="true"></iframe> 
@@ -50,29 +52,12 @@ function displayThanks() {
 ---
 
 
-&nbsp;
 If you want to listen to our selection of their music, follow us on spotify/soundcloud. (_soundcloud link_spotifyl link)
 
 ---
 
 
-&nbsp;
 _other interesting links_
 
+
 ---
-
-
-&nbsp;
-<details>
-  
-<summary> "music, neverends (old)" </summary>
-  <h3><font color="#cdcbcb"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
-    <ul>
-    {% for member in site.data.musicform %}
-      <li>
-          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
-      </li>
-    {% endfor %}
-    </ul>
-
-</details>
