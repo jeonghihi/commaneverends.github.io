@@ -1,3 +1,20 @@
+# display datatable in music.md 
+
+<details>
+  
+<summary> "music, neverends (old)" </summary>
+  <h3><font color="#cdcbcb"> artist </font> / <font color="white"> genre </font>(in alphabetical order)</h3>
+    <ul>
+    {% for member in site.data.musicform %}
+      <li>
+          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.genre }}</font> 
+      </li>
+    {% endfor %}
+    </ul>
+
+</details>
+
+
 # menu headers (original version, bar)
 
 {%- assign page_paths = site.header_pages | default: default_paths -%}
