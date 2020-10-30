@@ -13,20 +13,16 @@ permalink: /
     src: url("site/data/fonts/blox.ttf"); /*URL to font*/
 }
 
-.divlefttitle{
+.divLeftTitle{
     font-family: 'blox';
 }
-.body{
-    font-family: 'Roboto Condensed', sans-serif; 
-}
-
 
 </style>
 
 <body>
 <div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
   
-<div id ="divlefttitle" style="margin:0; font-color:blue;"> Person of the month (September 2020)</div>
+<div class ="divLeftTitle" style="margin:0; font-color:blue;"> Person of the month (September 2020)</div>
 
 <br/>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a>
