@@ -17,7 +17,7 @@ permalink: /
     font-family: 'blox';
 }
 .body{
-    font-family: 'Roboto Condensed', sans-serif; font color="blue"}
+    font-family: 'Roboto Condensed', sans-serif; 
 }
 
 
