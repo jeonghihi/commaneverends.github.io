@@ -6,26 +6,33 @@ permalink: /
 
 <html>
 
-<style>
-  div-left {
-  background-color: #ABC9FF;
-  margin: 1px;
-    }
-  div-right {
-  background-color: #ABC9FF;
-  margin: 1px;
-    }
-    
+<style> 
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap'); 
+  @font-face {
+    font-family: 'blox'; /*a name to be used later*/
+    src: url("../fonts/blox.ttf"); /*URL to font*/
+}
+
+.h1{
+    font-family: 'blox';
+}
+.h2{
+    font-family: 'Roboto Condensed', sans-serif; font color="blue"}
+  
+}
+
+
 </style>
-  
+
 <body>
-<div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden;">
+<div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
   
-# Person of the month (September 2020)
+<h1>  Person of the month (September 2020)</h1>
+
 <br/>
-<a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">
+<h2><a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">
 _Marguerite Duras_
-</a>
+</a></h2>
 <br/>
 (click on the name for more info!)
 <iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
@@ -33,7 +40,7 @@ _Marguerite Duras_
 
 </div>
 
-<div class="div-right" style="float: right; width: 296px; height: 460px; margin:1px;">
+<div class="div-right" style="float: right; width: 296px; height: 460px; margin:1px; background-color: #BC9FF;">
   
 # Welcome to comma never ends!
 <br/>
