@@ -16,7 +16,7 @@ permalink: /
 .a1{
     font-family: 'blox';
 }
-.h2{
+.a2{
     font-family: 'Roboto Condensed', sans-serif; font color="blue"}
   
 }
@@ -27,7 +27,7 @@ permalink: /
 <body>
 <div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
   
-<a1>Person of the month (September 2020)</a1>
+<a2>Person of the month (September 2020)</a2>
 
 <br/>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a>
