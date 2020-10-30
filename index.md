@@ -10,7 +10,7 @@ permalink: /
   @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap'); 
   @font-face {
     font-family: 'blox'; /*a name to be used later*/
-    src: url("../fonts/blox.ttf"); /*URL to font*/
+    src: url("site/data/fonts/blox.ttf"); /*URL to font*/
 }
 
 .divlefttitle{
@@ -26,7 +26,7 @@ permalink: /
 <body>
 <div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
   
-<div id ="divlefttitle">Person of the month (September 2020)</div>
+<div id ="divlefttitle" style="margin:0; font-color:blue;"> Person of the month (September 2020)</div>
 
 <br/>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a>
