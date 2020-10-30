@@ -7,12 +7,14 @@ permalink: /
 <html>
 
 <style>
-  body {
+  div-left {
   background-color: #ABC9FF;
-    }
-  div {
   margin: 1px;
-  }
+    }
+  div-right {
+  background-color: #ABC9FF;
+  margin: 1px;
+    }
     
 </style>
   
