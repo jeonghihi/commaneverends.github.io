@@ -3,8 +3,18 @@ layout: page
 title: /film
 permalink: /film/
 ---
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
+.title {
+font-family: 'Roboto Condensed', sans-serif;
+font color="blue"
+}
+</style>
+
+<div id="title">
 _film, neverends_ 
+</div>
 Here you can find female* directors and some of their masterpieces.
 
 
