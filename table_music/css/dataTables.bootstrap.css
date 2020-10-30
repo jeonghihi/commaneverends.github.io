@@ -47,7 +47,7 @@ div.dataTables_paginate ul.pagination {
 	div.dataTables_filter,
 	div.dataTables_info,
 	div.dataTables_paginate {
-		text-align: center;
+		text-align: left;
 	}
 
 	div.DTTT {
@@ -256,7 +256,7 @@ div.DTTT_print_info {
 	height: 150px;
 	margin-left: -200px;
 	margin-top: -75px;
-	text-align: center;
+	text-align: left;
 	color: #333;
 	padding: 10px 30px;
 	opacity: 0.95;
