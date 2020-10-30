@@ -13,7 +13,7 @@ permalink: /
     src: url("../fonts/blox.ttf"); /*URL to font*/
 }
 
-.h1{
+.a1{
     font-family: 'blox';
 }
 .h2{
@@ -27,12 +27,10 @@ permalink: /
 <body>
 <div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
   
-<h1>  Person of the month (September 2020)</h1>
+<a1>Person of the month (September 2020)</a1>
 
 <br/>
-<h2><a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">
-_Marguerite Duras_
-</a></h2>
+<a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a>
 <br/>
 (click on the name for more info!)
 <iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
