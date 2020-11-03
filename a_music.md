@@ -10,7 +10,7 @@ _music, neverends_
 Here you can find female* musicians/sound artists and some of their works.
 &nbsp;
 
-<iframe style="border-style: none;" src="https://commaneverends.github.io/table_music/index.html" height="400" width="600" frameBorder="0" allowtransparency="true"></iframe> 
+<iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_music/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
 
 
 ---
