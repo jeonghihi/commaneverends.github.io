@@ -18,7 +18,7 @@ _film, neverends_
 Here you can find female* directors and some of their masterpieces.
 
 
-<iframe style="border-style: none; width:100%;" src="https://commaneverends.github.io/table_film/index.html" height="400" frameBorder="0"></iframe>
+<iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
 
 
 ---
