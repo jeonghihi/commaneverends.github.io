@@ -3,8 +3,17 @@ layout: page
 title: /literature
 permalink: /literature/
 ---
-
-<h1> story, neverends </h1>
+<style>
+    .contents {
+        background-color: #B3A394;
+    }
+    h2 {color:#4C39CA; font-size: 22px;
+    }
+    
+  </style>
+  
+<div class = "contents">
+<h2> story, neverends </h2>
 Here you can find female writers. Visit our Goodreads account and get inspired by the wide range of female* intellectualism.
 
 <a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads")</a> 
@@ -12,6 +21,7 @@ Here you can find female writers. Visit our Goodreads account and get inspired b
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
 &nbsp;
 
+</div>
 ---
          
 <font color='yellow'> Send us your fav books, authors, any kinds of writers. </font> 
