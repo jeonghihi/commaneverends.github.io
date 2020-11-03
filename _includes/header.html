@@ -1,14 +1,14 @@
 <header>
 	
-<div class="menu">	 
-	<div id="menu1" style="display:inline-block; margin:5px; width:100%;">
+<div class="menu noFloat">	 
+	<div id="menu1" style="display:inline-block; margin:5px; width:100%; float:left">
 		<ul><a href="/#">/ARCHIVE! &nbsp;&nbsp;&nbsp;</a>
 		<a href="/music/">/<span style="color: red">m</span>usic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		<a href="#">/<span style="color: red">i</span>sland &nbsp;&nbsp;&nbsp;&nbsp;</a>
 		<a href="/literature/">/<span style="color: red">l</span>iterature &nbsp;</a>
 		<a href="/film/">/<span style="color: red">f</span>ilm &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		</ul></div>
-	<div id="menu2" style="display:inline-block; margin:5px; width:100%;">
+	<div id="menu2" style="display:inline-block; margin:5px; width:100%; float:left">
 		<ul><a href="/#">/LIFE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 		<a href="/map/">/map &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 		<a href="/links/">/links &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
@@ -32,18 +32,14 @@ ul li:hover > ul,
 ul li ul:hover { visibility: visible;  opacity: 20;  display: block;}
 ul li ul li { text-decoration: none;  clear: both;  width: 100%;}
 	
-.menu {
+.noFloat {
 	width: 100%;
 	overflow: auto; //If you get a scroll bar, try overflow: hidden;
 	float: none;
 	position: fixed;
 	top: 0;
 	left: 0;
-}
-	
-	
-  
-	
+}	
 </style>
 
 </header>
