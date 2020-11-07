@@ -17,19 +17,18 @@ permalink: /
 
 h2 {color:#4C39CA; font-size: 24px;}
     
-.divLeft {float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;}
+.divLeft {float: left; width:50%; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;}
 .divLeft-title{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
     margin: 0px;
 }
-
+.divRight {float: right; width: 296px; height: 100%; margin:1px; background-color: #BC9FF;}
 
 </style>
 
 <body>
-<div class="divLeft">
-  
+<div class="divLeft">  
 <div class ="divLeft-title"> Person of the month</div>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a> <br/>
 (click on the name for more info!)
@@ -38,8 +37,7 @@ h2 {color:#4C39CA; font-size: 24px;}
 
 </div>
 
-<div class="div-right" style="float: right; width: 296px; height: 460px; margin:1px; background-color: #BC9FF;">
-  
+<div class="divRight">  
 <h2> Welcome to comma never ends! </h2>
 <br/>
 We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
