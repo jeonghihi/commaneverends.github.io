@@ -5,7 +5,7 @@ permalink: /literature/
 ---
 <style>
     .contents {
-        background-color: ##FF9C01; 
+        background-color: #FF9C01; 
     }
     h2 {color:#4C39CA; font-size: 18px; 
     }
