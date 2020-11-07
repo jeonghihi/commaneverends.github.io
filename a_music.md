@@ -5,8 +5,13 @@ permalink: /music/
 ---
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 
-
-_music, neverends_  
+<style>
+    
+h2 {color:#4C39CA; font-size: 18px; font-style: italic; font-family: 'blox';
+    }
+</style>
+    
+<h2> music, neverends </h2>
 Here you can find female* musicians/sound artists and some of their works.
 &nbsp;
 
