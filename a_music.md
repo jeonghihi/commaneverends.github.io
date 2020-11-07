@@ -8,12 +8,12 @@ permalink: /music/
 <style>
 @font-face {
     font-family: 'blox';
-    src: url("../_data/font/blox.ttf") format('truetype');
+    src: url("../data/font/blox.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
     
-h2 {color:#4C39CA; font-size: 18px; font-style: italic; font-family: 'blox';
+h2 {color:#4C39CA; font-size: 18px; font-family: 'blox';
     }
     
 </style>
