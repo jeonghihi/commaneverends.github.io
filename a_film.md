@@ -19,7 +19,7 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <div class="bodycontents">
 <div class="maintext">
 <h2>film, neverends </h2>
-Here you can find female* directors and some of their masterpieces. </br>
+Here you can find female* directors and some of their masterpieces. 
   
 </div>
 
@@ -29,9 +29,9 @@ Here you can find female* directors and some of their masterpieces. </br>
 ---
 
 Additionally we created a global map to emphasize the diversity of female* film directors.
-</br>
+<br>
 Click the coinstack in the map to see info.
-</br>
+<br>
 
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/filmneverends_2842?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true&datalayers=5282%2C5281&fullscreenControl=false&locateControl=true&editinosmControl=false&measureControl=false#5/1.911/-64.468"></iframe>
 
@@ -74,7 +74,7 @@ function displayThanks() {
 </script>
 
 
-<a href="/links/" target="_blank"> other interesting links (click) </a>
+<a href="/link/" target="_blank"> other interesting links (click) </a>
 
 <details>
 <summary> "film, neverends (old)" </summary>
