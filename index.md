@@ -10,7 +10,7 @@ permalink: /
   @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap'); 
   @font-face {
     font-family: 'blox'; /*a name to be used later*/
-    src: url("site/data/fonts/blox.ttf"); /*URL to font*/
+    src: url("../_data/fonts/blox.ttf"); /*URL to font*/
 }
 
 .divLeftTitle{
