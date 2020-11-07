@@ -13,7 +13,7 @@ permalink: /music/
     font-style: normal;
 }
     
-h2 {color:#4C39CA; font-size: 24px; font-family: 'blox';
+h2 {color:#4C39CA; font-size: 24px;
     }
     
 .bodycontents {background-color: #D6FFED;
