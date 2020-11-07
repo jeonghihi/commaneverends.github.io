@@ -8,21 +8,30 @@ permalink: /
 
 <style> 
   @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap'); 
+  @import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap');
+
   @font-face {
     font-family: 'blox'; /*a name to be used later*/
     src: url("../_data/fonts/blox.ttf"); /*URL to font*/
 }
 
-.divLeftTitle{
-    font-family: 'blox';
+h2 {color:#4C39CA; font-size: 24px;}
+    
+.divLeft {float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;}
+.divLeft-title{
+    font-family: 'Saira Stencil One', cursive;
+    font-size: 24px;
+    font-color: blue;
+    margin: 0px;
 }
+
 
 </style>
 
 <body>
-<div class="div-left" style="float: left; width:296px; height: 460px; margin:1px; overflow: hidden; background-color: #BC9FF;">
+<div class="divLeft">
   
-<div class ="divLeftTitle" style="margin:0; font-color:blue;"> Person of the month (September 2020)</div>
+<div class ="divLeft-title"> Person of the month (Sep 2020) </div>
 
 <br/>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a>
@@ -35,7 +44,7 @@ permalink: /
 
 <div class="div-right" style="float: right; width: 296px; height: 460px; margin:1px; background-color: #BC9FF;">
   
-# Welcome to comma never ends!
+<h2> Welcome to comma never ends! </h2>
 <br/>
 We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
 Comma Never Ends is an interactive archive, you can add your favourite artists. <br/>
