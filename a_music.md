@@ -6,9 +6,16 @@ permalink: /music/
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 
 <style>
+@font-face {
+    font-family: 'blox';
+    src: url("../_data/font/blox.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
     
 h2 {color:#4C39CA; font-size: 18px; font-style: italic; font-family: 'blox';
     }
+    
 </style>
     
 <h2> music, neverends </h2>
