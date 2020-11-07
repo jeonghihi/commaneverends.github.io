@@ -14,12 +14,10 @@ permalink: /literature/
   
 <div id = "contents">
 <h2> Story, neverends </h2>
-Here you can find female writers. Visit our Goodreads account and get inspired by the wide range of female* intellectualism.
-</div>
+Here you can find female writers. Visit our <a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a> and get inspired by the wide range of female* intellectualism.
 
 <a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads")</a> 
 
-<div id = "contents">
 <h2>Our Goodread Genres</h2>
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
 &nbsp;
