@@ -12,7 +12,9 @@ font color: #4C39CA;
 font-size: 24px; 
 }
 
-.bodycontents {background-color: #D6FFED;
+.bodycontents {
+background-color: #D6FFED;
+margin-bottom: 20px;
     }
     
 </style>
