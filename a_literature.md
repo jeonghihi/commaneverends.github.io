@@ -20,9 +20,7 @@ h2 {color:#4C39CA; font-size: 24px;
     
     <div class="maintext">
 <h2> Story, neverends </h2>
-Here you can find female writers. Visit our <a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a> and get inspired by the wide range of female* intellectualism.
-
-<a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank">![](https://images.gr-assets.com/doodles/1572984560i/9.svg "go to goodreads")</a> 
+Here you can find female writers. Visit our <span style="font-weight: bold; font-style: italic;"><a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a></span> and get inspired by the wide range of female* intellectualism.
 
 <h2>Our Goodread Genres</h2>
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
