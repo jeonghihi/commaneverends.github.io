@@ -6,29 +6,26 @@ permalink: /film/
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
-.titlefont {
-font-family: 'Roboto Condensed', sans-serif;
-font color: #4C39CA;
-font-size: 24px; 
+.bodycontents {background-color: #D6FFED;
+}
+.maintext {margin: 10px 10px 20px 10px;
 }
 
-.bodycontents {
-background-color: #D6FFED;
-margin-bottom: 20px;
-    }
-    
+h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
+}
+     
 </style>
 
 <div class="bodycontents">
-
-<div class="titlefont"><p class=”breakAfter”>film, neverends <p></div>
+<div class="maintext">
+<h2>film, neverends </h2>
 Here you can find female* directors and some of their masterpieces. <br>
   
 </div>
 
 <iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
 
-
+</div>
 ---
 
 Additionally we created a global map to emphasize the diversity of female* film directors.
