@@ -23,15 +23,13 @@ Here you can find female* directors and some of their masterpieces.
   
 </div>
 
-<iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
+<iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
 
 </div>
 ---
 
-Additionally we created a global map to emphasize the diversity of female* film directors.
-<br>
-Click the coinstack in the map to see info.
-<br>
+Additionally we created a global map to emphasize the diversity of female* film directors.<br/>
+Click the coinstack in the map to see info.<br/>
 
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/filmneverends_2842?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true&datalayers=5282%2C5281&fullscreenControl=false&locateControl=true&editinosmControl=false&measureControl=false#5/1.911/-64.468"></iframe>
 
