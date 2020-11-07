@@ -8,7 +8,7 @@ permalink: /music/
 <style>
 @font-face {
     font-family: 'blox';
-    src: url("../data/font/blox.ttf") format('truetype');
+    src: url("site/data/font/blox.ttf") format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -17,15 +17,18 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'blox';
     }
     
 .bodycontents {background-color: #D6FFED;
+
     }
+.maintext {margin: 10px 10px 20px 10px;}
     
 </style>
 
 <div class="bodycontents">
+    <div class="maintext">
 <h2> music, neverends </h2>
 Here you can find female* musicians/sound artists and some of their works.
 &nbsp;
-
+    </div>   
 <iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_music/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
 
 </div>
