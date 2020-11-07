@@ -6,17 +6,23 @@ permalink: /film/
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
 
-.title {
+.titlefont {
 font-family: 'Roboto Condensed', sans-serif;
-font color="blue"
+font color: #4C39CA;
+font-size: 24px; 
 }
+
+.bodycontents {background-color: #D6FFED;
+    }
+    
 </style>
 
-<div id="title">
-_film, neverends_ 
-</div>
-Here you can find female* directors and some of their masterpieces.
+<div class="bodycontents">
 
+<div class="titlefont"><p class=”breakAfter”>film, neverends <p></div>
+Here you can find female* directors and some of their masterpieces. <br>
+  
+</div>
 
 <iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
 
