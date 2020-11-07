@@ -29,17 +29,14 @@ h2 {color:#4C39CA; font-size: 24px;
 Here you can find female* musicians/sound artists and some of their works.
 &nbsp;
     </div>  
-<iframe style="border-style: none; width:100%; height:400px;" src="https://commaneverends.github.io/table_music/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
+<iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_music/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
 
 </div>
 ---
-
-
 <br/>
 If you want to listen to our selection of their music, Follow us on spotify/soundcloud.
 <div>    <i class="fab fa-spotify"></i> </div>
 <br/>
-
 
 ---
 
@@ -73,8 +70,3 @@ function displayThanks() {
    alert (span_Text);
 }
 </script>
-
-
----
-
-.
