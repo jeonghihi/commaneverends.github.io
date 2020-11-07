@@ -5,6 +5,7 @@ permalink: /map/
 ---
 
 # places,neverends
+<i class="fas fa-map-marked-alt"></i>
 This is an archive of places we love.
 Click *days/nights* below to see details. (in alphabetical order)
 
