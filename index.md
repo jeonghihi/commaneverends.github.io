@@ -23,7 +23,7 @@ h2 {color:#4C39CA; font-size: 24px;}
     font-size: 24px;
     margin: 0px;
 }
-.divRight {float: left; width: 50%; height: 100%; margin:1px; background-color: #BC9FF;}
+.divRight {float: right; width: 50%; height: 460px; margin:1px; background-color: #BC9FF;}
 
 </style>
 
