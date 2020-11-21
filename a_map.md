@@ -21,9 +21,9 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <h2>place, neverends </h2>
 This is an archive of places we love. You can search them below!
 </div>
-</div>
 
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_place/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
+</div>
 
 <p>
 You can also find the location of each place in the map below. (click coinstacks to see places)
