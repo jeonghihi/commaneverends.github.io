@@ -29,6 +29,24 @@
 	</ul>
 </div>
 
+# arhive - display a list of items/category/etc from csv file. 
+
+<i class="fas fa-map-marked-alt"></i>
+Click *days/nights* below to see details. (in alphabetical order)
+
+<details>
+<summary> places for days </summary>
+<ul>
+  {% for member in site.data.safespacesDay %}
+  <li>
+<font color="red"> {{ member.name }} </font> / <font color="yellow"> {{ member.address }} </font> / <font color="gray"> {{ member.website }} </font>
+  </li>
+{% endfor %}
+</ul>
+</details>
+ 
+
+
 # menu headers (old version, right-centered blocks)
 
 <div class="menu", style="float: block; text-align: right;">
