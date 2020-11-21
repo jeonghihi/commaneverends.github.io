@@ -58,19 +58,18 @@ DePaul IHS
     
 body { 
   font: 18px/1.3em 'ColaborateThinRegular', sans-serif;
-  background:none transparent;
 }
 
 h1 {
   font: 32px/1em 'GibsonBold', serif;
   text-transform: uppercase;
-  color: #e6e5e5;
+  color: #0054b2;
 }
 
 h2 {
   font: 22px/1em 'GibsonBold', serif;
   text-transform: uppercase;
-  color: #e6e5e5;
+  color: #0054b2;
 }
 
 #logo {
@@ -82,20 +81,20 @@ h2 {
 .info {
   padding: 6px 8px;
   font: 14px/16px Arial, Helvetica, sans-serif;
-  background: transparent;
-  background: transparent;
+  background: black;
+  background: rgba(255,255,255,0.8);
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 5px;
 }
 .info h4 {
   margin: 0 0 5px;
-  color: #777;
+  color: #7fb5ff;
 }
 
 .legend {
   text-align: left;
   line-height: 18px;
-  color: #555;
+  color: #7fb5ff;
 }
 .legend i {
   width: 18px;
