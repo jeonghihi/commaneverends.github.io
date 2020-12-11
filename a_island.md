@@ -35,7 +35,7 @@ Here you can find a list of events, happening now and then. Let's stay in touch
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
-<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbxZYxmzxIl79dR-rQUCo9aGwTDu6YRiD4gfXFWv5w/exec" target="after" onsubmit="close()">
+<form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbxZYxmzxIl79dR-rQUCo9aGwTDu6YRiD4gfXFWv5w/exec" target="after" onsubmit="close()"> //need to change form link for events//
   
 <form>
   <input type="text" id="name" name="eventname" placeholder="Name of the event:" autocomplete="off">
