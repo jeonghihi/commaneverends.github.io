@@ -21,9 +21,9 @@ h2 {color:#4C39CA; font-size: 24px;
     <div class="maintext">
 <h2> island, neverends </h2>
 Here you can find a list of events, happening now and then. Let's stay in touch 
-</br>
+</p>
 
-- event name / dates / : event <span style="font-weight: bold; font-style: italic;"><a href="commaneverends.github.io" target="_blank"> link (click to open this link) </a></span>.
+- event name / dates / : <span style="font-weight: bold; font-style: italic;"><a href="commaneverends.github.io" target="_blank"> event link (click to open this link) </a></span>.
 
 </div>
 
