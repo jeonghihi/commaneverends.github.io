@@ -10,7 +10,7 @@ cafe/pub,Himmelreich,"Simon-Dach-str. 36. 10245 Berlin",https://www.himmelreich-
 cafe/pub,OYA,"Mariannenstrasse 5. 10997 Berlin",https://www.instagram.com/oya_bar/,events
 cafe/pub/restaurant,Selig,"Herrfurthplatz 14. 12049 Berlin",https://www.selig.berlin/,
 pub,Bar Saint Jean,"(currently closed. moving to new place)",https://barsaintjean.business.site/,
-pub,Neues Ufer (prev.Anderes Ufer),"Hauptstr. 157, 10827 Berlin",(no website),
+pub,"Neues Ufer (prev.Anderes Ufer)","Hauptstr. 157, 10827 Berlin",(no website),
 pub,Twinpigs,"Boddinstr. 57A. 12053 Berlin",no website,events/QueerEvents
 pub,Zum Schmutzigen Hobby,"Revaler Str. 99. 10245 Berlin",http://zumschmutzigenhobby.de/,
 pub,Bandito Rosso,"Lottumstr. 10a. 10119 Berlin",https://banditorosso.site36.net/,events
@@ -40,15 +40,15 @@ bookshop,Prinz Eisenherz Buchladen,"Motzstrasse 23, 10777 Berlin",https://prinz-
 bookshop,PRO QM,"Almstadtstr. 48. 10119 Berlin",pro-qm.de,
 bookshop,Shakespeare and Sons,"Warschauer Str. 74, 10243 Berlin",https://www.shakes.cz/,
 bookshop,Shesaidbooks,"Kottbusser Damm. 79. 10967 Berlin",https://www.shesaid.de/,
-bookshop,Zabriskie - Buchladen für Kultur und Natur,"Reichenberger Str. 150. 10999 Berlin",https://zabriskie.de/uber-uns/,
-bookshop,Ocelot - not just another bookstore, "Brunnenstraße. 181. 10119 Berlin",https://www.genialokal.de/buchhandlung/berlin/ocelot/,
-culture,THE.WORD,"Neue Kulmer Str. 2. 10827 Berlin",https://theword.berlin/,events/library/craft beer/gallery
+bookshop,Zabriskie-Buchladen für Kultur und Natur,"Reichenberger Str. 150. 10999 Berlin",https://zabriskie.de/uber-uns/,
+bookshop,Ocelot-not just another bookstore, "Brunnenstraße. 181. 10119 Berlin",https://www.genialokal.de/buchhandlung/berlin/ocelot/,
+culture,THE WORD,"Neue Kulmer Str. 2. 10827 Berlin",https://theword.berlin/,events/library/craft beer/gallery
 library,"Spinnboden Lesbenarchiv & Bibliothek e.V.", "Anklamer Strasse 38. (2. Hinterhof / 3. Aufgang / 2. Stock) 10115 Berlin",http://www.spinnboden.de/,lesbian archive
 networking,Aquarium at Sudblock narrativ e.V.,"Skalitzer Str. 6. 10999 Berlin",https://www.suedblock.org/wp/category/aquarium/,events/conference
 networking,COWOMEN,"Griebenowstr. 10-11. 10435 Berlin.",https://cowomen.com/,coworking/networking/conference
 networking,Schokofabrik,"Mariannenstrasse 6. 10997 Berlin",http://www.frauenzentrum-schokofabrik.de/index.php?id=36,events/sports/wellness/womens centre *female only* hamam (bath)
 party,About blank,"Markgrafendamm 24c. 10245 Berlin",http://aboutblank.li/,party/QueerEvents
-party,DIe Busche ,"Warschauer Platz 18. 10245 Berlin",https://www.diebusche.de,closed/to-be-continued
+party,Die Busche ,"Warschauer Platz 18. 10245 Berlin",https://www.diebusche.de,closed/to-be-continued
 party,Kirche von Unten,"Storkower Str. 119. 10407 Berlin",https://kvu-berlin.de/,events/concerts
 party,Loophole,"Boddinstrasse 60. 12053 Berlin",loophole-berlin.com,events/concerts
 party,SchwuZ,"Rollbergstrasse 26. 12053 Berlin",www.schwuz.de,party
