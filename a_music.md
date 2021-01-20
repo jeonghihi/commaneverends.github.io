@@ -34,7 +34,9 @@ Here you can find female* musicians/sound artists and some of their works.
 </div>
 ---
 <br/>
-If you want to listen to our selection of their music, Follow us on spotify/soundcloud.
+If you want to listen to our selection of their music, 
+Follow us on 
+<span style="font-weight: bold; font-style: italic;"><a href="https://open.spotify.com/user/6opa0oogff0g83t9vkr5s7l1j" target="_blank"> spotify </a></span> /soundcloud.
 <div>    <i class="fab fa-spotify"></i> </div>
 <br/>
 
