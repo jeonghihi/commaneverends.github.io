@@ -22,10 +22,15 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 
 <div class="maintext">
 <h2>link, neverends </h2>
-Here you can find a list of useful links </br>
+Here you can find a list of useful resources </br>
 
-<a href="https://www.facebook.com/femalefilmmakersfestival/"> test link </a>
-  
+<span style="font-weight: bold; font-style; italic;"> <a href="https://www.facebook.com/femalefilmmakersfestival/" target="_blank"> test link - film fest </a> </span>
+ 
+- team/crew (based in berlin)
+- (online)forums 
+- database/archives
+- articles
+
 </div>
 
 </div>
