@@ -41,7 +41,7 @@ div.dataTables_paginate ul.pagination {
 	white-space: nowrap;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 600px) {
 	div.dataTables_wrapper > div.row > div,
 	div.dataTables_length,
 	div.dataTables_filter,
@@ -69,11 +69,6 @@ table.dataTable {
 	margin-top: 6px !important;
 	margin-bottom: 6px !important;
 	max-width: none !important;
-}
-
-table.pretty {
-    width: 100%;
-    clear: both;
 }
 
 table.pretty td,
