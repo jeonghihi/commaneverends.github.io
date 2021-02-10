@@ -38,13 +38,14 @@ h2 {color:#4C39CA; font-size: 24px;}
 
 <div class="divLeft">  
   
-<div class ="div-title-left"> Welcome to commaneverends !@ </div>
+<div class ="div-title-left"> Welcome to commaneverends !@test </div>
 <br/>
 We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
 Comma Never Ends is an interactive archive, you can add your favourite artists. <br/>
 Our archive consists of three main categories: music, literature and film. <br/>
 There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! <br/>
 </div>
+<br/>
 
 <div class="divRight">  
   
