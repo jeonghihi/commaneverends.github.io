@@ -20,8 +20,9 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 
 <div class="maintext">
 <h2>link, neverends </h2>
-Here you can find a list of useful resources for networking/collaborations. </br>
-_team/crew (based in berlin), (online)forums, database/archives, articles_
+Here you can find a list of useful resources for networking/collaborations.
+     
+e.g, organization/group/collectives (based in berlin), (online)forums, database/archives, articles.
 </div>
 
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_network/index.html" frameBorder="0"></iframe>
