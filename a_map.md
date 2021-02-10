@@ -25,13 +25,14 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 This is an archive of places we love.
 You can find the location of each place in the map (click coinstacks to see places) !
 or you can search them below.      
+
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/placesneverends_2508?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true&datalayers=5282%2C5281&fullscreenControl=false&locateControl=true&editinosmControl=false&measureControl=false#17/52.51335/13.45708"></iframe>
-category: cafe, pub, bookshop, film, art, networking, library
+.
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_place/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
 
 
 ---
 
-Contact us if you have any suggestion. <a href="https://commaneverends.github.io/contact" target="_blank">:speech_balloon:</a>
+Contact us if you have any suggestion.<a href="https://commaneverends.github.io/contact" target="_blank">(click)</a>
 
 </div>
