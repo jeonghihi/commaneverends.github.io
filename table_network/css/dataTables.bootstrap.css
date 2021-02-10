@@ -178,6 +178,7 @@ table.table-bordered tbody th,
 table.table-bordered tbody td {
 	border-left-width: 0;
 	border-bottom-width: 0;
+	width: 10px;
 }
 table.table-bordered tfoot th,
 table.table-bordered tfoot td {
