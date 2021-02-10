@@ -17,9 +17,9 @@ permalink: /
 
 h2 {color:#4C39CA; font-size: 24px;}
     
-.divLeft {float: left; width:100%; height: min-content; margin:0 0 0 10; overflow: hidden; background-color: #BC9FF;}
-.divRight {float: right; width: 100%; height: 480px; margin:0 0 0 10; overflow: hidden;background-color: #BC9FF;}
-.divThird {float: right; width: 100%; heigt: min-content; margin:0 0 0 10; }
+.divLeft {float: left; width:100%; height: min-content; margin:0 0 0 10px; overflow: hidden; background-color: #BC9FF;}
+.divRight {float: right; width: 100%; height: 480px; margin:0 0 0 10px; overflow: hidden;background-color: #BC9FF;}
+.divThird {float: right; width: 100%; heigt: min-content; margin:0 30px 0 10px; }
 .div-title-left{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
@@ -51,7 +51,6 @@ Comma Never Ends is an interactive archive, you can add your favourite artists. 
 Our archive consists of three main categories: music, literature and film. <br/>
 There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! <br/>
 </div>
-<br/>
 
 <div class="divRight">  
   
