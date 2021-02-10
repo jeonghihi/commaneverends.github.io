@@ -19,7 +19,7 @@ h2 {color:#4C39CA; font-size: 24px;}
     
 .divLeft {float: left; width:100%; height: min-content; margin:0 0 0 10; overflow: hidden; background-color: #BC9FF;}
 .divRight {float: right; width: 100%; height: 480px; margin:0 0 0 10; background-color: #BC9FF;}
-.divThird {position: fixed; top: 20px; right: 40px; width: 100%; heigt: min-content; margin:10px; }
+.divThird {float: right; width: 100%; heigt: min-content; margin:10px; }
 .div-title-left{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
