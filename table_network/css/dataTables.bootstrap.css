@@ -69,7 +69,11 @@ table.dataTable {
 	margin-top: 6px !important;
 	margin-bottom: 6px !important;
 	max-width: none !important;
-	"columnDefs": [    { "width": "20%", "targets": 1 }  ]
+}
+
+table.pretty {
+    width: 100%;
+    clear: both;
 }
 
 table.dataTable thead .sorting,
@@ -178,7 +182,6 @@ table.table-bordered tbody th,
 table.table-bordered tbody td {
 	border-left-width: 0;
 	border-bottom-width: 0;
-	width: 10px;
 }
 table.table-bordered tfoot th,
 table.table-bordered tfoot td {
