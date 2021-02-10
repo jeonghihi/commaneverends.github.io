@@ -76,6 +76,13 @@ table.pretty {
     clear: both;
 }
 
+table.pretty td,
+table.pretty th {
+    padding: 5px;
+    border: 1px solid #fff;
+    width: 10px;
+}
+
 table.dataTable thead .sorting,
 table.dataTable thead .sorting_asc,
 table.dataTable thead .sorting_desc,
