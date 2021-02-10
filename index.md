@@ -19,7 +19,7 @@ h2 {color:#4C39CA; font-size: 24px;}
     
 .divLeft {float: left; width:100%; height: min-content; margin:0 0 0 10; overflow: hidden; background-color: #BC9FF;}
 .divRight {float: right; width: 100%; height: 480px; margin:0 0 0 10; background-color: #BC9FF;}
-.divThird {position: fixed; top: 10px; right: 80px; width: 100%; heigt: min-content; margin:10px; }
+.divThird {position: fixed; top: 20px; right: 40px; width: 100%; heigt: min-content; margin:10px; }
 .div-title-left{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
@@ -38,7 +38,7 @@ h2 {color:#4C39CA; font-size: 24px;}
 
 <div class="divLeft">  
   
-<div class ="div-title-left"> Welcome to commaneverends ! </div>
+<div class ="div-title-left"> Welcome to commaneverends !@ </div>
 <br/>
 We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
 Comma Never Ends is an interactive archive, you can add your favourite artists. <br/>
