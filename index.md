@@ -17,8 +17,9 @@ permalink: /
 
 h2 {color:#4C39CA; font-size: 24px;}
     
-.divLeft {float: left; width:100%; height: min-content; margin:1px; overflow: hidden; background-color: #BC9FF;}
-.divRight {float: right; width: 100%; height: 480px; margin:1px; background-color: #BC9FF;}
+.divLeft {float: left; width:100%; height: min-content; margin:10px; overflow: hidden; background-color: #BC9FF;}
+.divRight {float: right; width: 100%; height: 480px; margin:10px; background-color: #BC9FF;}
+.divRight {float: right; width: 100%; heigt: min-content; margin:10px; }
 .div-title-left{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
@@ -36,6 +37,7 @@ h2 {color:#4C39CA; font-size: 24px;}
 <body>
 
 <div class="divLeft">  
+  
 <div class ="div-title-left"> Welcome to commaneverends ! </div>
 <br/>
 We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
@@ -45,6 +47,7 @@ There are so many interesting female* artists, together we can keep this archive
 </div>
 
 <div class="divRight">  
+  
 <div class ="div-title-right"> Person of the month</div>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a> <br/>
 (click on the name for more info!)
@@ -53,6 +56,11 @@ There are so many interesting female* artists, together we can keep this archive
 
 </div>
 
+<div class="divThird">
+  
+  <div class ="div-title-third"> Event calendar <a href="/event/" target="_blank"> (click) </a> </div>
+  
+</div>
 
 </body>
 
