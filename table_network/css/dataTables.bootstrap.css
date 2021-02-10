@@ -68,14 +68,7 @@ table.dataTable {
 	clear: both;
 	margin-top: 6px !important;
 	margin-bottom: 6px !important;
-	max-width: none !important;
-}
-
-table.pretty td,
-table.pretty th {
-    padding: 5px;
-    border: 1px solid #fff;
-    width: 10px;
+	max-width: 580px !important;
 }
 
 table.dataTable thead .sorting,
