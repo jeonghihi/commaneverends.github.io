@@ -41,7 +41,7 @@ div.dataTables_paginate ul.pagination {
 	white-space: nowrap;
 }
 
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 600px) {
 	div.dataTables_wrapper > div.row > div,
 	div.dataTables_length,
 	div.dataTables_filter,
@@ -68,7 +68,7 @@ table.dataTable {
 	clear: both;
 	margin-top: 6px !important;
 	margin-bottom: 6px !important;
-	max-width: 580px !important;
+	max-width: none !important;
 }
 
 table.dataTable thead .sorting,
