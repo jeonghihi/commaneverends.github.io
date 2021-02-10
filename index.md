@@ -17,13 +17,14 @@ permalink: /
 
 h2 {color:#4C39CA; font-size: 24px;}
     
-.divLeft {float: left; width:100%; height: 480px; margin:1px; overflow: hidden; background-color: #BC9FF;}
+.divLeft {float: left; width:100%; height: min-content; margin:1px; overflow: hidden; background-color: #BC9FF;}
 .divRight {float: right; width: 100%; height: 480px; margin:1px; background-color: #BC9FF;}
 .div-title-left{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
     margin: 0px;
 }
+
 .div-title-right{
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
