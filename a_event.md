@@ -39,7 +39,7 @@ Here you can find interesting online/offline events: performances, workshop, rea
   <input type="text" id="name" name="event_title" placeholder="event title:" autocomplete="off">
   <input type="text" id="film" name="event_date" placeholder="event time::" autocomplete="off">
   <input type="text" id="film" name="event_link" placeholder="event link::" autocomplete="off">
-<input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
+  <input type="text" id="email" name="subscription" placeholder="If you want further updates: write your email address here" autocomplete="off">  
   <input type="submit" value="[ submit ]" onclick="displayThanks()">  
  
 </form>
