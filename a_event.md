@@ -23,9 +23,8 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 Here you can find interesting online/offline events: performances, workshop, reading group, exhibition, tour, lectures. <br/>
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_event/index.html" frameBorder="0"></iframe>
 
-
 </div>
-
+</div>
 
 ---
 
@@ -50,7 +49,6 @@ Here you can find interesting online/offline events: performances, workshop, rea
 
 <div style="display:none" class="thanks_message">
 <span id="span_thanks"> Thanks for your support. See you again! </span>
-  
 </div>
 
 <script>
