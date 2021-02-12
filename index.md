@@ -29,13 +29,14 @@ h2 {color:#4C39CA; font-size: 24px;}
     font-family: 'Saira Stencil One', cursive;
     font-size: 24px;
     margin: 0px;
-    overflow: auto;
+    overflow: hidden;
 }
 .div-title-third{
     font-family: 'Saira Stencil One', cursive;
     font-color: green;
     font-size: 24px;
     margin: 0px;
+    overflow: hidden;
 }
 .main-body-contents{
     overflow: hidden;
@@ -60,7 +61,7 @@ There are so many interesting female* artists, together we can keep this archive
 <div class ="div-title-second"> Person of the month</div>
 <a href="https://en.wikipedia.org/wiki/Marguerite_Duras?printable=yes" target="iframe_person">_Marguerite Duras_</a> <br/>
 (click on the name for more info!)
-<iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
+<iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" margin="5px;" frameborder="0" allowfullscreen src="https://lh3.googleusercontent.com/pw/ACtC-3fqQeH_Szupw-xfguVev5NKEYI9V3w_3elKJAYc1MxbhqT-uGzN36bDrxGufYiRbBaS-SEK3knIgXVViSmJ6zZQ5IOyCFELlAkb7Ye-XKdeQS9fhWZLBtXoGZEPFmFOWq3c_vzWsYGMOunfFAyD4Gw=w308-h434-no">
 </iframe>
 
 </div>
