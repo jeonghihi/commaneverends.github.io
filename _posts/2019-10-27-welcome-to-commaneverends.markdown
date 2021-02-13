@@ -23,4 +23,4 @@ If you have questions, you can talk to us on [telegram][comma-chat].
 
 [comma-places]: https://commaneverends.github.io/map/
 [comma-event]: https://commaneverends.github.io/event/
-[comma-chat]: https://web.telegram.org/#/im?p=g527936522
+[comma-chat]: https://web.telegram.org/#/im?p=@commaneverends
