@@ -50,10 +50,18 @@ h2 {color:#4C39CA; font-size: 24px;}
   
 <div class ="div-title-first"> Welcome to commaneverends! </div>
 <br/>
-We are collecting female* artists in music, literature and film to build a space for women* in arts. <br/>
-Comma Never Ends is an interactive archive, you can add your favourite artists. <br/>
-Our archive consists of three main categories: music, literature and film. <br/>
-There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect! <br/>
+Hey Fans and Friendz,<br/><br/>
+
+Today is the release of our Website CommaNeverEnds! We would love to celebrate that with you, with several bottles of champagne and music all night - well that is unfortunately not possible these days, so for now it's a release text on our website. <br/>
+(--- Spoiler: The release party is for sure happening in summer!) <br/><br/>
+
+
+About CommaNeverEnds<br/>
+The idea is to create a space for FLINTA* persons, to connect with each other and to gather information about FLINTA* art - for a  greater visibility of FLINTA* persons.<br/>
+The current status of the website is a rough sketch of the platform and archive that we would like to build with your participation. We set up the environment for a archive/platform and you can contribute by sending us FLINTA* artists, events and places: <br/>
+We implemented a contact sheet on each branch of the archive, just write down your recommendations, press the button “submit” and we will add your recommendations to the archive!<br/><br/>
+
+Check more details <span style="font-weight: bold; font-style: italic;"><a href="https://commaneverends.github.io/about/"  target="_blank">  here </a> </span>
 </div>
 
 <div class="divSecond">  
