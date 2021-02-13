@@ -65,6 +65,6 @@ We are now talking to you by presenting this first version of commaneverends (a 
 We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do.<br>
 
 
-as long as you remember<p>
+as long as you remember <br>
 <span  style="font-weight: bold; font-style: italic;">, neverends. </span><br>
 2021-02-13
