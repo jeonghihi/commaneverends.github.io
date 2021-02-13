@@ -35,7 +35,7 @@ It's even more difficult to stay connected and to show solidarity and to support
 safe spaces for FLINTA* in Berlin
 
 <h3>Chat Room </h3>
-Join our Telegram Group and connect with like minded peeps - <span style="font-weight: bold; font-style: italic; color: red;"><a href="https://web.telegram.org/#/im?p=@commaneverends">click here</a></span>
+Join our Telegram Group and connect with like minded peeps - <span style="font-weight: bold; font-style: italic; color: red;"><a href="https://web.telegram.org/#/im?p=@commaneverends" target="_blank">click here</a></span>
 
 <h3>Links </h3>
 Additional links of FLINTA* websites and feminist groups in Berlin 
