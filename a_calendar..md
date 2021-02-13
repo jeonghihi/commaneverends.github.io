@@ -22,16 +22,14 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <h2>calender, neverends </h2>
 
 Hey fans and friendz <br>
-By buying this calendar you are supporting our project of creating an interactive archive/platform for FLINTA* ! 
+By buying this calendar you are supporting our project of creating an interactive archive/platform for FLINTA* ! <br>
+You can see it as an investment in a feminist project that is still starting out and in it´s baby shoes. You can choose between two different price options. <br>
+10€ is the regular prize to cover our expenses. 7€ is the reduced prize for people with a lower income. Of course you are welcome to pay more in order to support us ! <br>
+For now, thanks a lot for helping us out. <br>
 
-
-You can see it as an investment in a feminist project that is still starting out and in it´s baby shoes. You can choose between two different price options. 
-10€ is the regular prize to cover our expenses. 7€ is the reduced prize for people with a lower income. Of course you are welcome to pay more in order to support us !
-For now, thanks a lot for helping us out. 
-
-Price: 10 E
-Reduced Price for ppl with a low income: 7 E
-Solidarity Price: more than 10 E, up to you!
+Price: 10 € <br>
+Reduced Price for ppl with a low income: 7 € <br>
+Solidarity Price: more than 10 €, up to you :D <br>
 
 <div class ="div-title-fourth"> 
 <a href="order-form_?printable=yes" target="iframe_person">(click the here to get yours!)</a> <br/></div>
