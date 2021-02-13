@@ -4,24 +4,23 @@ title:  ",neverends"
 date:   2019-10-27 17:42:33 +0100
 categories: jekyll update
 ---
-# Welcome to commaneverends!
-We are collecting female* artists in music, literature and film to build a space for women* in arts.
-Comma Never Ends is an interactive archive, you can add your favourite artists.
-Our archive consists of three main categories: music, literature and film.
-There are so many interesting female* artists, together we can keep this archive growing - so it never ends, lets connect!
+# Commaneverends
 
+Planned: 2019-10-17 
+Born: 2021-02-13
 
 {% highlight ruby %}
 def archive_your(name)
   puts "Hi, #{name}"
 end
 archive_your('Carol')
-#=> prints 'Hi, Carol' to easy-living.
+#=> prints 'Hi, Carol' for easy-living.
 {% endhighlight %}
 
-Check out the [Map][comma-places] for more info on how to find the places in Berlin. Find all useful links at [Links][comma-links]. If you have questions, you can ask meet us on [Talks][comma-talks].
+Check out our [Map][comma-places] for cool*safe* spaces in Berlin. <br>
+Find all interesting events at [event][comma-event]. <br>
+If you have questions, you can talk to us on [telegram][comma-chat].
 
 [comma-places]: https://commaneverends.github.io/map/
-[comma-links]: https://commaneverends.github.io/links/
-[comma-talks]: https://commaneverends.github.io/talk-channels/
-
+[comma-event]: https://commaneverends.github.io/event/
+[comma-chat]: https://web.telegram.org/#/im?p=g527936522
