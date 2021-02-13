@@ -40,8 +40,3 @@ Solidarity Price: more than 10 €, up to you. <br>
 
 </div>
 </div>
-
----
-
-
-<font color="red"> You can order by filling out the form (click). We will reply to you via email.</font> 
