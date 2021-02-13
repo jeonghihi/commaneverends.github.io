@@ -21,8 +21,10 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <div class="maintext">
 <h2>calender, neverends </h2>
 
-Hey fans and friendz
+Hey fans and friendz <br>
 By buying this calendar you are supporting our project of creating an interactive archive/platform for FLINTA* ! 
+
+
 You can see it as an investment in a feminist project that is still starting out and in it´s baby shoes. You can choose between two different price options. 
 10€ is the regular prize to cover our expenses. 7€ is the reduced prize for people with a lower income. Of course you are welcome to pay more in order to support us !
 For now, thanks a lot for helping us out. 
