@@ -34,8 +34,7 @@ It's even more difficult to stay connected and to show solidarity and to support
 <h3>Map of Berlin  </h3>
 FLINTA* places (or FLINTA* friendly places) in Berlin.
 <h3>Chat Room </h3>
-Join our Telegram Group and connect with like minded peeps
-Chat Room on Website 
+Join our Telegram Group and connect with like minded peeps - <span style="font-weight: bold; font-style: italic; color: red;"><a href="https://web.telegram.org/#/im?p=g527936522">click here</a></span>
 
 <h3>Links </h3>
 Additional links of FLINTA* websites and feminist groups in Berlin 
