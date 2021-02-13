@@ -45,7 +45,7 @@ Additional links of FLINTA* websites and feminist groups in Berlin
 **** Spread the word! We are here, we are loud, we are the new virus of the fckng internet! 
 Share our website on instagram, tell your friends, enemies and strangers on the bus. Lets connect!
 
-<span  style="font-weight: bold; font-style: italic;">Your Comma Team_</span>
+<span  style="font-weight: bold; font-style: italic;">Your Comma Team</span>
 
 
 <h1> Manifesto </h1>
@@ -64,5 +64,6 @@ We are now talking to you by presenting this first version of commaneverends (a 
 We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do.<br><br><br>
 
 
-as long as you remember<br>
+as long as you remember<p>
 <span  style="font-weight: bold; font-style: italic;">, neverends. </span><br>
+2021-02-13
