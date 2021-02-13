@@ -21,12 +21,9 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <div class="maintext">
 <h2>calender, neverends </h2>
 
-Text  <br/>
-#<iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_event/index.html" frameBorder="0"></iframe>
-  
 <div class ="div-title-fourth"> 
-<a href="LINK_TO_commaC?printable=yes" target="iframe_person">calender, neverends</a> <br/></div>
-(click the text for more info!)
+<a href="LINK_TO_comma_order_form?printable=yes" target="iframe_person">(click the here to get yours!)</a> <br/></div>
+
 <iframe name="iframe_person" left="1px;" right="0px;" width="100%" height="440px;" margin="5px;" frameborder="0" allowfullscreen src="https://docs.google.com/document/d/1_E9c4N5V5yFspBeb1UDcHflaswGqKqBwstbL84T4Nlc/edit?usp=sharing">
 </iframe>
 
