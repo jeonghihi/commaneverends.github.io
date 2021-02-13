@@ -70,18 +70,4 @@ function displayThanks() {
 </script>
 
 
-<a href="/link/" target="_blank"> other interesting links (click) </a>
-
-<details>
-<summary> "film, neverends (old)" </summary>
-  <h3><font color="white"> director </font> / <font color="white"> movie </font>  / <font color="white"> year </font> (in alphabetical order) </h3>
-    <ul>
-    {% for member in site.data.filmform %}
-      <li>
-          <font color="red">{{ member.item }}</font> <font color="yellow">{{ member.movie }}</font> <font color="green">{{ member.year }}</font> 
-      </li>
-    {% endfor %}
-    </ul>
-</details>
-
-
+<a href="#" target="_blank"> other interesting links (click) </a>
