@@ -60,7 +60,7 @@ We are, currently, a group of individuals who are talking, writing, and making t
 We are dreaming of commaneverends to be a space for the collective of individuals across people*space*generations, who are creating new connections, facilitating/strengthening those connections, and extending/supporting them based on love and respect.<br>
 
 We are now talking to you by presenting this first version of commaneverends (a baby!), and we are waiting for your reply.
-We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do.<br>
+We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do. <br><br>
 
 
 as long as you remember <br>
