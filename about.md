@@ -47,8 +47,7 @@ Share our website on instagram, tell your friends, enemies and strangers on the 
 
 <span  style="font-weight: bold; font-style: italic;">Your Comma Team</span> <br>
 <br>
-<br>
-<br>
+
 <span style="font-weight: bold; font-style: italic; font-size: 24px; color: #8C19FF;"> Manifesto </span>
 
 We need to see more diverse presence/trace/evidences of FLINTA* persons in the aspects of our lives.
