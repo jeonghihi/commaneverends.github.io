@@ -4,7 +4,7 @@ title: /about
 permalink: /about/
 ---
 
-<h1>About CommaNeverEnds</h1>
+ <span style="font-weight: bold; font-style: italic; font-size: 24px; font-color: purple;"><h1>About CommaNeverEnds</h1></span>
 
 The idea is to create a space for FLINTA* persons, to connect with each other and to gather information about FLINTA* art - for a  greater visibility of FLINTA* persons.<br>
 The current status of the website is a rough sketch of the platform and archive that we would like to build with your participation. We set up the environment for a archive/platform and you can contribute by sending us FLINTA* artists, events and places: <br>
