@@ -32,7 +32,7 @@ Reduced Price for ppl with a low income: 7 € <br>
 Solidarity Price: more than 10 €, up to you. <br>
 .<br>
 <div class ="div-title-fourth"> <font color="red">
-<a href="order-form_?printable=yes" target="iframe_form">(click the here to get yours!)</a> <br/></font> </div>
+<a href="https://docs.google.com/forms/d/1PLgY4VjlOvDEnyWreb6KW4W5_hqkFqxctPtQKtcSwLM/edit?printable=yes" target="iframe_form">(click the here to get yours!)</a> <br/></font> </div>
 
 <iframe name="iframe_form" left="1px;" right="0px;" width="100%" height="440px;" margin="5px;" frameborder="0" allowfullscreen src="https://docs.google.com/document/d/1DANc3hYkTnU2op9nUtBtXYkheDvVfe_sL4Xeli5S_VA/edit?usp=sharing">
 </iframe>
