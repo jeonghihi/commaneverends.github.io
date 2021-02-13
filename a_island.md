@@ -18,12 +18,9 @@ h2 {color:#4C39CA; font-size: 24px;
   
 <div class="bodycontents">
     
-    <div class="maintext">
+<div class="maintext">
 <h2> island, neverends </h2>
-Here you can find a list of events, happening now and then. Let's stay in touch 
-</p>
-
-- event name / dates / : <span style="font-weight: bold; font-style: italic;"><a href="commaneverends.github.io" target="_blank"> event link (click to open this link) </a></span>.
+hey, we will add something interesting info here. follow us for future updates! <span style="font-weight: bold; font-style: italic;"><a href="https://www.instagram.com/commaneverends/"  target="_blank"> click here (instagram) </a> </span> or <span style="font-weight: bold; font-style: italic;"> <a href="https://twitter.com/commaneverends"  target="_blank"> here (twitter) </a> </span>
 
 </div>
 
