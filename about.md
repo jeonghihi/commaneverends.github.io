@@ -4,15 +4,15 @@ title: /about
 permalink: /about/
 ---
 
-<span style="font-weight: bold; font-style: italic; font-size: 24px; font-color: purple;">About CommaNeverEnds></span>
+<span style="font-weight: bold; font-style: italic; font-size: 24px; font-color: #B284BE;">About CommaNeverEnds>></span>
 
 The idea is to create a space for FLINTA* persons, to connect with each other and to gather information about FLINTA* art - for a  greater visibility of FLINTA* persons.<br>
 The current status of the website is a rough sketch of the platform and archive that we would like to build with your participation. We set up the environment for a archive/platform and you can contribute by sending us FLINTA* artists, events and places: <br>
 We implemented a contact sheet on each branch of the archive, just write down your recommendations, press the button “submit” and we will add your recommendations to the archive!<br>
 
 The Website contains an archive with a collection of FLINTA* artists and a networking platform: <br>
-
-<span style="font-weight: bold; font-style: italic; font-size: 18px; font-color: blue;">ARCHIVE</span>
+<br>
+<span style="font-weight: bold; font-style: italic; font-size: 18px; font-color: #0048BA;">ARCHIVE</span>
 
 <h3>Music</h3>
 Table with genres
@@ -24,8 +24,8 @@ Table of FLINTA* directors and one of their films
 You can find a wide range of FLINTA* writers and their books on our Goodreads account
 Book recommendations, books that just got released or we especially like
 
-
-<span style="font-weight: bold; font-style: italic; font-size: 18px; font-color: blue;">PLATFORM </span>
+<br>
+<span style="font-weight: bold; font-style: italic; font-size: 18px; font-color: #0048BA;">PLATFORM </span>
 
 <h3>Event Calendar </h3>
 Even before corona we were planning to set up a calendar for flinta events. A calendar helps to keep an overview about meetings, networking opportunities and academic discourses, as well as practical political action like protests or spontaneous meet ups of FLINTA*.
@@ -45,12 +45,12 @@ Additional links of FLINTA* websites and feminist groups in Berlin
 **** Spread the word! We are here, we are loud, we are the new virus of the fckng internet! 
 Share our website on instagram, tell your friends, enemies and strangers on the bus. Lets connect!
 
-<span  style="font-weight: bold; font-style: italic;">Your Comma Team</span>
+<span  style="font-weight: bold; font-style: italic;">Your Comma Team</span> <br><br>
 
 
-<span style="font-weight: bold; font-style: italic; font-size: 24px; font-color: purple;"> Manifesto </span>
+<span style="font-weight: bold; font-style: italic; font-size: 24px; font-color: #B284BE;"> Manifesto </span>
 
-We need to see more diverse presence/trace/evidences of FLINTA* persons in the aspects of our lives. <br>
+We need to see more diverse presence/trace/evidences of FLINTA* persons in the aspects of our lives. <p>
 We want to show multidimensional features of being women, lesbian, intersex, non-binary, trans* and agender. <br>
 We are not just vulnerable, soft, kind, smiling, sensitive, caring, helpful, dedicated, patient, warm, emotional, sexual, but also strong, powerful, straight, direct, high-esteem/self-confident, skilled, insightful, gentle, ambitious, intellectual, loud, problematic (making problems observable from hidden/silent system) and have flaws naturally. All of these are part of us, which should be accepted without any additional explanations or justifications. <br><br>
 
