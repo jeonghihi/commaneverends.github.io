@@ -4,13 +4,13 @@ title: /about
 permalink: /about/
 ---
 
-<span style="font-weight: bold; font-style: italic; font-size: 24px; color: #B284BE;">About CommaNeverEnds>></span>
+<span style="font-weight: bold; font-style: italic; font-size: 24px; color: #8C19FF;">About CommaNeverEnds>></span>
 
 The idea is to create a space for FLINTA* persons, to connect with each other and to gather information about FLINTA* art - for a  greater visibility of FLINTA* persons.<br>
 The current status of the website is a rough sketch of the platform and archive that we would like to build with your participation. We set up the environment for a archive/platform and you can contribute by sending us FLINTA* artists, events and places: <br>
 We implemented a contact sheet on each branch of the archive, just write down your recommendations, press the button “submit” and we will add your recommendations to the archive!<br>
 
-The Website contains an archive with a collection of FLINTA* artists and a networking platform: <br>
+The Website contains an archive with a collection of FLINTA* artists and a networking platform: 
 <br>
 <span style="font-weight: bold; font-style: italic; font-size: 18px; color: #0048BA;">ARCHIVE</span>
 
@@ -48,20 +48,20 @@ Share our website on instagram, tell your friends, enemies and strangers on the 
 <span  style="font-weight: bold; font-style: italic;">Your Comma Team</span> <br><br>
 
 
-<span style="font-weight: bold; font-style: italic; font-size: 24px; color: #B284BE;"> Manifesto </span>
+<span style="font-weight: bold; font-style: italic; font-size: 24px; color: #8C19FF;"> Manifesto </span>
 
-We need to see more diverse presence/trace/evidences of FLINTA* persons in the aspects of our lives. <p>
-We want to show multidimensional features of being women, lesbian, intersex, non-binary, trans* and agender. <br>
-We are not just vulnerable, soft, kind, smiling, sensitive, caring, helpful, dedicated, patient, warm, emotional, sexual, but also strong, powerful, straight, direct, high-esteem/self-confident, skilled, insightful, gentle, ambitious, intellectual, loud, problematic (making problems observable from hidden/silent system) and have flaws naturally. All of these are part of us, which should be accepted without any additional explanations or justifications. <br><br>
+We need to see more diverse presence/trace/evidences of FLINTA* persons in the aspects of our lives.
+We want to show multidimensional features of being women, lesbian, intersex, non-binary, trans* and agender.
+We are not just vulnerable, soft, kind, smiling, sensitive, caring, helpful, dedicated, patient, warm, emotional, sexual, but also strong, powerful, straight, direct, high-esteem/self-confident, skilled, insightful, gentle, ambitious, intellectual, loud, problematic (making problems observable from hidden/silent system) and have flaws naturally. All of these are part of us, which should be accepted without any additional explanations or justifications. <br>
 
-We, as a part of FLINTA* persons, seek to build a space, which present the heterogeneous features of FLINTA* persons in the aspects of our cultural lives. <br>
-We are collecting the information related to music, literature, and film created by FLINTA* persons, and making them visible on this platform. <br><br>
+We, as a part of FLINTA* persons, seek to build a space, which present the heterogeneous features of FLINTA* persons in the aspects of our cultural lives.
+We are collecting the information related to music, literature, and film created by FLINTA* persons, and making them visible on this platform. <br>
 
-We are, currently, a group of individuals who are talking, writing, and making this platform together.<br>
-We are dreaming of commaneverends to be a space for the collective of individuals across people*space*generations, who are creating new connections, facilitating/strengthening those connections, and extending/supporting them based on love and respect.<br><br>
+We are, currently, a group of individuals who are talking, writing, and making this platform together.
+We are dreaming of commaneverends to be a space for the collective of individuals across people*space*generations, who are creating new connections, facilitating/strengthening those connections, and extending/supporting them based on love and respect.<br>
 
-We are now talking to you by presenting this first version of commaneverends (a baby!), and we are waiting for your reply. <br>
-We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do.<br><br><br>
+We are now talking to you by presenting this first version of commaneverends (a baby!), and we are waiting for your reply.
+We would like to see you and hear from you, so tell us what you think, what you feel, how you are, or what you want to do.<br>
 
 
 as long as you remember<p>
