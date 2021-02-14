@@ -20,13 +20,13 @@ h2 {color:#4C39CA; font-size: 24px; font-family: 'Roboto Condensed', sans-serif;
 <div class="maintext">
 <h2>film, neverends </h2>
      
-Look! We created a global map to emphasize the diversity of female* film directors.<br/>
+Look! We created a global map to emphasize the diversity of FLINTA* film directors.<br/>
 <iframe width="100%" height="400px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.co/en/map/filmneverends_2842?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=true&tilelayersControl=false&embedControl=false&datalayersControl=expanded&onLoadPanel=undefined&captionBar=true&datalayers=5282%2C5281&fullscreenControl=false&locateControl=true&editinosmControl=false&measureControl=false#5/1.911/-64.468"></iframe>
 </div>
 
 
 ---
-Here you can find female* directors and some of their masterpieces.<br/>
+Here you can find FLINTA* directors and some of their masterpieces.<br/>
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_film/index.html" frameBorder="0"></iframe>
 
 </div>
