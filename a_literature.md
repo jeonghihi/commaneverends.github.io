@@ -20,7 +20,7 @@ h2 {color:#4C39CA; font-size: 24px;
     
     <div class="maintext">
 <h2> Story, neverends </h2>
-Here you can find female writers. Visit our <span style="font-weight: bold; font-style: italic;"><a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a></span> and get inspired by the wide range of female* intellectualism.
+Here you can find FLINTA* writers. Visit our <span style="font-weight: bold; font-style: italic;"><a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a></span> and get inspired by the wide range of FLINTA* intellectualism.
 
 <h2>Our Goodread Genres</h2>
 <em>fiction</em> / <em>nonfiction</em> / <em>feminism</em> / <em>gender studies</em> / <em>autobiographies</em> / <em>graphic-novel</em> / <em>philosphy</em> / <em>art</em> / <em>poetry</em> / <em>psychology</em> / <em>sci-fi</em>
@@ -31,7 +31,7 @@ Here you can find female writers. Visit our <span style="font-weight: bold; font
 
 ---
          
-<font color='yellow'> Send us your fav books, authors, any kinds of writers. </font> 
+<font color='yellow'> Send us your fav books, any kinds of FLINTA* authors/writers. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
