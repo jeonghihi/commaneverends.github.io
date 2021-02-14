@@ -26,7 +26,7 @@ h2 {color:#4C39CA; font-size: 24px;
 <div class="bodycontents">
     <div class="maintext">
 <h2> music, neverends </h2>
-Here you can find female* musicians/sound artists and some of their works.
+Here you can find FLINTA* musicians/sound artists and some of their works.
 &nbsp;
     </div>  
 <iframe style="border-style: none; width:100%; height:300px;" src="https://commaneverends.github.io/table_music/index.html"  frameBorder="0" allowtransparency="true"></iframe> 
@@ -34,11 +34,11 @@ Here you can find female* musicians/sound artists and some of their works.
 </div>
 ---
 If you want to listen to our selection of their music, 
-Follow us on <span style="font-weight: bold; font-style: italic;"><a href="https://open.spotify.com/user/6opa0oogff0g83t9vkr5s7l1j" target="_blank"> spotify </a></span> /soundcloud.
+Follow us on <span style="font-weight: bold; font-style: italic;"><a href="https://open.spotify.com/user/6opa0oogff0g83t9vkr5s7l1j" target="_blank"> spotify </a></span>.
 <div>    <i class="fab fa-spotify"></i> </div>
 ---
 
-<font color="red"> Send us your fav songs, musicians, any kinds of sound artists. </font> 
+<font color="red"> Send us your fav songs, any kinds of FLINTA* musicians/sound artists. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 <form class="gform" method="POST" id="car_request_form" role="form" action="https://script.google.com/macros/s/AKfycbz-6TLQGMxloAJtH1JQ-w1hf4GouwAZisDs2gBN7RUJ1uYw2Rg/exec" target="after" onsubmit="close()">
