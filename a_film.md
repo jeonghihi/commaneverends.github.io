@@ -35,7 +35,7 @@ Here you can find FLINTA* directors and some of their masterpieces.<br/>
 ---
 
 
-<font color="red"> Send us your fav films made by female* directors. </font> 
+<font color="red"> Send us your fav films made by FLINTA* directors. </font> 
 
 <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
 
