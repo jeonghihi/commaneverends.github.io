@@ -70,4 +70,4 @@ function displayThanks() {
 </script>
 
 
-<a href="#" target="_blank"> other interesting links (click) </a>
+<a href="#" target="_blank"> other interesting links (- in preparation -) </a>
