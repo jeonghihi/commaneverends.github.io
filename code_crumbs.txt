@@ -67,3 +67,9 @@ Click *days/nights* below to see details. (in alphabetical order)
 		</ul>
 	</div>
 </div>
+
+# moving letters - css
+https://tobiasahlin.com/moving-letters/#4
+
+# span style
+https://medium.com/androiddevelopers/spantastic-text-styling-with-spans-17b0c16b4568
