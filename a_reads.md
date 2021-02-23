@@ -15,7 +15,7 @@ permalink: /articles/
 <ul>
   {% for member in site.data.articles %}
   <li>
-<font color="red"> {{ member.date }} </font> / <font color="yellow"> {{ member.title }} </font> / <font color="gray"> {{ member.link }} </font>
+<font color="green"> {{ member.date }} </font> / <font color="blue"> <a href = "{{ member.link }}" target="_blank"> {{ member.title }} </a> </font>
   </li>
 {% endfor %}
 </ul>
