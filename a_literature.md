@@ -12,12 +12,26 @@ h2 {color:#4C39CA; font-size: 24px;
 
     }
 .maintext {margin: 10px 10px 20px 10px;}
-    
+
+.div-book-month-title{
+    font-family: 'Saira Stencil One', cursive;
+    font-size: 24px;
+    margin: 0px;
+}
+
 </style>
   
   
 <div class="bodycontents">
-    
+   <div class="div-book-month">
+      <div class="div-book-month-title"><h2> Book of the month</h2></div>
+      <span style="font-weight:bold"> Kim Jiyoung, Born 1982: The international bestseller </span> by Cho Nam-Joo
+      <figure><img src="_data/images/82kimjiyoung.png" width="200"></figure>
+      <span style="font-style:italic"> Kim Jiyoung has started acting strangely.<br /> Kim Jiyoung is depressed. <br /> Kim Jiyoung is mad. <br /> Kim Jiyoung is her own woman.<br />Kim Jiyoung is every woman.<br /></span>
+<span> Kim Jiyoung, Born 1982 is the life story of one young woman born at the end of the twentieth century and raises questions about endemic misogyny and institutional oppression that are relevant to us all. Riveting, original and uncompromising, this is the most important book to have emerged from South Korea since Han Kang’s The Vegetarian.   
+      </span>
+
+   </div>
     <div class="maintext">
 <h2> Story, neverends </h2>
 Here you can find FLINTA* writers. Visit our <span style="font-weight: bold; font-style: italic;"><a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a></span> and get inspired by the wide range of FLINTA* intellectualism.
