@@ -23,8 +23,9 @@ h2 {color:#4C39CA; font-size: 24px;
   
   
 <div class="bodycontents">
-   <iframe name="book-month" left="1px;" right="0px;" border-style: none; width="100%" height="440px;" margin="5px;" frameborder="0" allowfullscreen="" src="https://commaneverends.github.io/commasmonth/2021-03-book.html"></iframe>
-    <div class="maintext">
+   <div class="bookmonth"><iframe name="book-month" left="1px;" right="0px;" border-style: none; width="100%" height="440px;" margin="5px;" frameborder="0" allowfullscreen="" src="https://commaneverends.github.io/commasmonth/2021-03-book.html"></iframe></div>
+
+<div class="maintext">
 <h2> Story, neverends </h2>
 Here you can find FLINTA* writers. Visit our <span style="font-weight: bold; font-style: italic;"><a href="https://www.goodreads.com/user/show/104617976-commaneverends" target="_blank"> Goodreads account </a></span> and get inspired by the wide range of FLINTA* intellectualism.
 
